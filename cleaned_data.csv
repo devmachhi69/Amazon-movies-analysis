@@ -1,0 +1,539 @@
+show_id,type,title,director,cast,country,release_year,rating,duration,genres
+s2,Movie,Take Care Good Night,Girish Joshi,"Mahesh Manjrekar, Abhay Mahajan, Sachin Khedekar",India,2018,13+,110 min,"Drama, International"
+s108,Movie,Whoop!,Kreeti Gogia,Abish Mathew,India,2018,18+,64 min,"Arts, Entertainment, and Culture"
+s143,Movie,Wedding Cha Shinema,Saleel Kulkarni,"Shivraj Waichal, Rucha Inamdar, Mukta Barve, Purnima Ahire, Adesh Aware",India,2019,ALL,138 min,"Comedy, International"
+s166,Movie,Waiting for You,Charles Garrad,"Colin Morgan, Fanny Ardant, Abdelkrim Bahloul, Clare Holman","United Kingdom, France",2018,13+,92 min,"Drama, Romance, Suspense"
+s174,Movie,Vows of Deception,Bill Norton,"Cheryl Ladd, Nick Manusco, Nancy Cartwright, Vyto Ruginis, Mike Farrell, Cady Huffman",United States,1996,PG-13,94 min,"Drama, Suspense"
+s176,Movie,Voice From the Stone,Eric D. Howell,"Emilia Clarke, Marton Csokas, Caterina Murino, Remo Girone","United States, Italy",2017,R,90 min,"Drama, Suspense"
+s179,Movie,Viswasam,Siva,"Ajith Kumar, Nayanthara",India,2019,13+,151 min,"Action, Drama, International"
+s181,Movie,Virus,Aashiq Abu,"Revathy, Kunchako Boban, Parvathy Thiruvoth",India,2019,ALL,149 min,"Drama, Science Fiction, Suspense"
+s190,Movie,Vicky Velingkar,Saurabh Varma,"Sonalee Kulkarni, Spruha Joshi, Sangram Samel, Kettan Singh, Gaurav More, Rama Joshi, Vinita karat, Juhi Pawar",India,2019,13+,125 min,"International, Suspense"
+s194,Movie,Vellai Pookal,Vivek Elangovan,"Vivek, Charlie, Dev, Pooja Devariya","United States, India",2019,13+,121 min,"International, Suspense"
+s225,Movie,Under the Boardwalk: The Monopoly Story,Kevin Tostado,Zachary Levi,United States,2011,G,88 min,"Documentary, Special Interest"
+s240,Movie,UFOs - The Secret History,David Cherniack,"Michael D. Swords PhD., Jerome Clark, David Jacobs Ph.D., Thomas E. Bullard Ph.D., Budd Hopkins, Travis Walton, Maj. Robert Friend (USAF Rtd.), Bruce Maccabee Ph.D., J. Gordon Melton Ph.D., David Rudiak",United States,2016,ALL,102 min,Special Interest
+s259,Movie,True Colors,Herbert Ross,"Richard Widmark, Dina Merrill, Philip Bosco, Paul Guilfoyle, Steve Morley",United States,1991,R,110 min,Drama
+s262,Movie,Tropic Thunder,Ben Stiller,"Ben Stiller, Jack Black, Robert Downey","United States, United Kingdom, Germany",2008,R,107 min,"Action, Comedy"
+s264,Movie,Triple Seat (4K UHD),Sanket Prakash Pavse,"Ankush Chaudhari, Shivani Surve, Pallavi Patil",India,2019,NR,126 min,"Comedy, International"
+s272,Movie,Transit,Antonio Negret,"James Caviezel, James Frain, Elisabeth Rohm, Harold Perrineau, Ryan Donowho",United States,2012,R,88 min,"Action, Drama, Suspense"
+s281,Movie,Touch Chesi Chudu,Vikram Sirikonda,"Ravi Teja, Raashi Khanna, Seerat Kapoor",India,2018,13+,142 min,"Drama, International, Romance"
+s284,Movie,Tortilla Soup,Maria Ripoll,"Héctor Elizondo, Jacqueline Obradors, Elizabeth Peña, Tamara Mello, Raquel Welch, Paul Rodriguez, Constance Marie",United States,2002,PG-13,104 min,"Comedy, Drama, Romance"
+s322,Movie,To Catch a Thief,Alfred Hitchcock,"Cary Grant, Grace Kelly, Jessie Royce Landis, John Williams, Charles Vanel, Brigitte Auber, Jean Martinelli, Georgette Anys",United States,1955,PG,106 min,"Drama, Suspense"
+s339,Movie,Tiger Zinda Hai,Ali Abbas Zafar,"Salman Khan, Katrina Kaif, Paresh Rawal, Girish Karnad, Anant Vidhaat, Kumud Kumar Mishra, Angad Bedi, Sajjad Delafrooz",India,2017,13+,159 min,"Action, Drama, International"
+s341,Movie,Ticker,Albert Pyun,"Tom Sizemore, Dennis Hopper, Steven Seagal",United States,2001,R,92 min,"Action, Adventure, Suspense"
+s351,Movie,Three Wishes,Martha Coolidge,"Patrick Swayze, Mary Elizabeth Mastrantonio, Joseph Mazzello, Seth Mumy",United States,1995,13+,116 min,"Adventure, Fantasy"
+s366,Movie,Think Like a Dog (4K UHD),Gil Junger,"Gabriel Bateman, Josh Duhamel, Megan Fox, Kunal Nayyar, Julia Jones, Janet Montgomery, Bryan Callen, Todd Stashwick, Neo Hooo","China, United States, United Kingdom",2020,PG,91 min,"Comedy, Kids"
+s367,Movie,Think Like a Dog,Gil Junger,"Gabriel Bateman, Josh Duhamel, Megan Fox, Kunal Nayyar, Julia Jones, Janet Montgomery, Bryan Callen, Todd Stashwick, Neo Hooo","China, United States, United Kingdom",2020,PG,91 min,"Comedy, Kids"
+s374,Movie,The Zookeeper,Ralph Ziman,"Sam Neill, Gina McKee, Ulrich Thomsen, Om Puri","Denmark, United Kingdom, Czech Republic, Netherlands",2001,13+,99 min,Drama
+s375,Movie,The Zombie King,Aidan Belizaire,"Edward Furlong, Corey Feldman, George McCluskey",United Kingdom,2013,16+,96 min,"Comedy, Horror"
+s398,Movie,The Wereth Eleven,Robert Child,"Corey Reynolds, Ken Arnold",United States,2011,13+,61 min,"Documentary, Military and War"
+s399,Movie,The Wedding Year,Robert Luketic,"Sarah Hyland, Camille Hyde, Zora Bikangaga, Laci Mosley, Tom Conolly, Grace Helbig, Tyler James Williams, Jenna Dewan, Matt Shively, Anna Camp, Noureen DeWulf, Wanda Sykes, Kristen Johnston, Patrick Warburton, Keith David",United States,2019,R,91 min,Comedy
+s403,Movie,The Vast of Night,Andrew Patterson,"Sierra McCormick, Jake Horowitz, Gail Cronauer, Bruce Davis, Cheyenne Barton, Gregory Peyton",United States,2020,PG-13,91 min,"Drama, Science Fiction, Suspense"
+s456,Movie,The Secret of Roan Inish,John Sayles,"Jeni Courtney, Eileen Colgan, Mick Lally, Susan Lynch, John Lynch, Frankie McCafferty","United States, Ireland",1995,PG,102 min,Drama
+s493,Movie,The Parallax View,Alan J. Pakula,"Warren Beatty, Hume Cronyn, Paula Prentiss, Kenneth Mars",United States,1974,R,102 min,Drama
+s506,Movie,The Nutty Professor (1963),Jerry Lewis,"Jerry Lewis, Stella Stevens, Del Moore",United States,1963,ALL,107 min,"Comedy, Science Fiction"
+s531,Movie,The Monster Squad,Fred Dekker,"Andre Gower, Duncan Regehr, Ryan Lambert, Stephen Macht, Tom Noonan",United States,1987,PG-13,82 min,"Action, Comedy, Horror"
+s565,Movie,The Legend of Swee' Pea,Benjamin May,"Lloyd Daniels, Avery Johnson, Bobbito Garcia, David Robinson, Jerry Tarkanian",United States,2020,18+,80 min,"Documentary, Sports"
+s572,Movie,The Last Sharknado: It's About Time,Anthony C. Ferrante,"Tara Reid, Ian Ziering, Cassie Scerbo, Vivica A. Fox, Judah Friedlander",United States,2018,13+,89 min,"Action, Science Fiction"
+s579,Movie,The Last Black Man in San Francisco (4K UHD),Joe Talbot,"Mike Epps, Jimmie Fails, Finn Wittrock, Danny Glover, Rob Morgan, Tichina Arnold, Jonathan Majors",United States,2019,R,121 min,"Arthouse, Arts, Entertainment, and Culture, Drama"
+s608,Movie,The Immortalists,"David Alvarado, Jason Sussberg","Bill Andrews, Aubrey de Grey, Colin Blakemore, Adelaide Carpenter, Terry Grossman, Leonard Hayflick, Randy Lee","United Kingdom, United States, India",2014,7+,77 min,"Documentary, Special Interest"
+s613,Movie,The Hungry,Bornila Chatterjee,"Antonio Aakeel, Tisca Chopra, Neeraj Kabi, Naseeruddin Shah","United Kingdom, India",2017,18+,99 min,"Drama, International"
+s620,Movie,The Hollow Child,Jeremy Lutter,"Jessica McLeod, Hannah Cheramy, John Emmet Tracy",Canada,2018,16+,88 min,Horror
+s657,Movie,The Flaw,David Sington,"Andrew Luan, Robert Shiller, Louis Hyman",United Kingdom,2011,13+,81 min,Special Interest
+s667,Movie,The Farewell (4K UHD),Lulu Wang,"Awkwafina, Shuzhen Zhao, X Mayo","United States, China",2019,13+,100 min,"Arthouse, Arts, Entertainment, and Culture, Comedy"
+s709,Movie,The Court Jester,"Melvin Frank, Norman Panama","Danny Kaye, Glynis Johns, Basil Rathbone, Angela Lansbury, Cecil Parker",United States,1956,ALL,101 min,"Action, Comedy"
+s726,Movie,The Bridgewater Triangle,"Aaron Cadieux, Manny Famolare","Loren Coleman, Jeff Belanger, Chris Balzano, John Brightman, Andrew Lake, Chris Pittman, Tim Weisberg",United States,2013,13+,91 min,Special Interest
+s757,Movie,The Asian Connection,Daniel Zirilli,"Steven Seagal, Pim Bubear, John Edward Lee","United States, Thailand",2016,R,92 min,"Action, Suspense"
+s849,Movie,Super Size Me 2: Holy Chicken!,Morgan Spurlock,Morgan Spurlock,United States,2019,PG-13,103 min,"Comedy, Documentary, Special Interest"
+s850,Movie,Super Size Me,Morgan Spurlock,Morgan Spurlock,United States,2004,PG-13,99 min,Special Interest
+s860,Movie,Sunshine Hotel,Michael Dominic,"Michael Dominic, Nathan Smith, Ray Stark",United States,2002,13+,99 min,"Documentary, Special Interest"
+s873,Movie,Student of the Year 2,Punit Malhotra,"Tiger Shroff, Tara Sutaria, Ananya Panday",India,2019,13+,146 min,"Drama, International"
+s893,Movie,Stick Man,"Jeroen Jaspaert, Daniel Snaddon","Martin Freeman, Jennifer Saunders, Russell Tovey, Hugh Bonneville, Rob Brydon, Sally Hawkins",United Kingdom,2015,ALL,27 min,"Adventure, Animation, Kids"
+s917,Movie,Stagecoach - The Original John Wayne Classic,John Ford,"John Wayne, Claire Trevor, Andy Devine, John Carradine, Thomas Mitchell, Louise Platt, George Bancroft, Donald Meek, Tim Holt, Tom Tyler, Yakima Canutt",United States,1939,7+,96 min,"Adventure, Drama, Western"
+s937,Movie,Sonu Ke Titu Ki Sweety,Luv Ranjan,"Kartik Aaryan, Nushrat Bharucha, Sunny Singh Nijjar, Ishita Raj Sharma, Alok Nath, Deepika Amin, Ayesha Raza, Virendra Saxena, Rajesh Jais",India,2018,13+,138 min,"Comedy, International"
+s940,Movie,Song One,Kate Barker-Froyland,"Anne Hathaway, Johnny Flynn, Mary Steenburgen, Ben Rosenfield",United States,2015,PG-13,88 min,"Arthouse, Arts, Entertainment, and Culture, Drama"
+s956,Movie,Soapdish,Michael Hoffman,"Robert Downey Jr., Sally Field, Teri Hatcher, Cathy Moriarty, Paul Johansson, Elisabeth Shue, Whoopi Goldberg, Kevin Kline, Carrie Fisher, Kathy Najimy, Willie Garson",United States,1991,PG-13,96 min,Comedy
+s969,Movie,Smile Please,Vikram Phadnis,"Mukta Barve, Lalit Prabhakar, Prasad Oak, Aditi Govitrikar, Trupti Khamkar, Satish Alekar, Vedashree Mahajan",India,2019,13+,132 min,"Drama, International"
+s976,Movie,Sleepwalker,Elliott Lester,"Ahna O'Reilly, Richard Armitage, Haley Joel Osment, Izabella Scorupco, Kevin Zegers",United States,2017,18+,88 min,"Drama, Suspense"
+s984,Movie,Sketchy Behaviour,Neville Shah,"Kanan Gill, Kenneth Sebastian",India,2019,PG-13,64 min,"Arts, Entertainment, and Culture"
+s988,Movie,Sita,Teja,"Sai Srinivas Bellamkonda, Kajal Aggarwal, Sonu Sood",India,2019,13+,157 min,"Drama, International"
+s1035,Movie,Sharknado 4: The 4th Awakens,Anthony C. Ferrante,"Ian Ziering, Tara Reid, David Hasselhoff, Gary Busey, Tommy Davidson, Cody Linley, Imani Hakim",United States,2016,13+,85 min,"Action, Horror, Science Fiction"
+s1040,Movie,Shakuntala Devi,Anu Menon,"Vidya Balan, Sanya Malhotra, Jisshu Sengupta,  Amit Sadh",India,2020,13+,127 min,Drama
+s1045,Movie,Shadow Company,"Nick Bicanic, Jason Bourque",James Ashcroft,Canada,2007,13+,44 min,Documentary
+s1047,Movie,Shaadi Mubarak,Padmasri,"Sagar RK Naidu, Drishya Raghunath",India,2021,ALL,133 min,"Comedy, Drama"
+s1059,Movie,Selah and the Spades,Tayarisha Poe,"Lovie Simone, Jharrel Jerome, Celeste O’Connor, Jesse Williams, Gina Torres, Ana Mulvoy Ten, Evan Roe, Francesca Noel, Henry Hunter-Hall, Nekhebet Juch, Bella Ferragamo, Kristen Ivy Haynes, Greyson Cage, Ben Breault, Krish Bhuva, Cody Sloan, Ali Fisher, Rae Bell, Melissa McMeekin, Ken Israel",United States,2020,R,98 min,Young Adult Audience
+s1093,Movie,Savyasachi,Chandoo Mondeti,"Naga Chaitanya, Nidhhi Agerwal, R. Madhavan, Bhumika Chawla",India,2018,13+,148 min,"Action, Adventure, International"
+s1103,Movie,Same Kind of Different as Me,Michael Carney,"Greg Kinnear, Renee Zellweger, Djimon Hounsou, Jon Voight",United States,2017,PG-13,119 min,Drama
+s1107,Movie,Sakka Podu Podu Raja,Sethuraman,"Santhanam, Vaibhavi Shandilya, Vivek, VTV Ganesh, Sampath",India,2017,13+,124 min,"Comedy, Drama, International"
+s1119,Movie,Rustum,Ravi Varma,"Shivarajkumar, Vivek Oberoi, Shraddha Srinath, Rachita Ram, Harish Uttaman, Mayuri, J.Mahendran, Shatru",India,2019,NR,127 min,"Action, International"
+s1209,Movie,Rangasthalam,Sukumar,"Ram Charan, Samantha Akkineni, Aadhi Pinisetty, Anasuya Bharadwaj, Jagapati Babu",India,2018,7+,174 min,"Drama, International, Suspense"
+s1228,Movie,Raazi,Meghna Gulzar,"Alia Bhatt, Vicky Kaushal",India,2018,13+,137 min,"Drama, International, Suspense"
+s1252,Movie,Professor Shanku O El Dorado,Sandip Ray,"Dhritiman Chatterjee, Subhasish Mukhopadhyay, Eduardo Munniz","Brazil, United States, India",2020,13+,92 min,"Action, Adventure, Science Fiction"
+s1253,Movie,Problems,Neville Shah,Azeem Banatwalla,India,2018,13+,68 min,"Arts, Entertainment, and Culture"
+s1275,Movie,Powder Blue,Timothy Linh Bui,"Jessica Biel, Ray Liotta, Eddie Redmayne, Forest Whitaker, Kris Kristofferson, Lisa Kudrow, Patrick Swayze",United States,2009,R,106 min,"Drama, Suspense"
+s1331,Movie,Pink Heat,Sean LaFollette,"Jordan Burgess, Adam Joseph Lopez, Joey Catalano, James Howey, Nick Catalano, Henry Frost III",United States,2017,16+,78 min,"Action, Suspense"
+s1341,Movie,Petromax,Rohin Venkatesan,"Tamannah, Yogi Babu, Munishkanth, Kaali Venkat, Mime Gopy",India,2019,NR,127 min,"Horror, International"
+s1372,Movie,Pass Over,Spike Lee,"Jon Michael Hill, Julian Parker, Ryan Hallahan, Blake Delong",United States,2018,18+,75 min,Drama
+s1378,Movie,Pari,Prosit Roy,"Anushka Sharma Kohli, Parambrata Chatterjee, Rajat Kapoor, Ritabhari Chakraborty",India,2018,18+,134 min,"Horror, International"
+s1393,Movie,Pagalpanti,Anees Bazmee,"Anil Kapoor, John Abraham, Ileana D’Cruz, Urvashi Rautela, Arshad Warsi, Kriti Kharbanda, Pulkit Samrat, Saurabh Shukla",India,2019,13+,149 min,"Action, Comedy"
+s1394,Movie,Padmaavat,Sanjay Leela Bhansali,"Deepika Padukone, Ranveer Singh, Shahid Kapoor, Aditi Rao Hydari, Jim Sarbh, Anupriya Goenka, Raza Murad",India,2018,13+,163 min,"Drama, Historical, International"
+s1440,Movie,Odeya (4K UHD),M.D. Sridhar,"Darshan, Sanah Thimmayyah, Yashas Surya",India,2019,13+,162 min,"Drama, International"
+s1441,Movie,Odeya,M.D. Sridhar,"Darshan, Sanah Thimmayyah, Yashas Surya",India,2019,NR,162 min,"Drama, International"
+s1471,Movie,Notebook,Nitin Kakkar,"Zahir Iqbal, Pranutan Bahl",India,2019,ALL,112 min,"Drama, International, Romance"
+s1484,Movie,Night of the Running Man,Mark L. Lester,"Andrew McCarthy, John Glover, Scott Glenn, Wayne Newton",United States,1995,R,93 min,"Action, Adventure, Suspense"
+s1485,Movie,Night Falls on Manhattan,Sidney Lumet,"Andy Garcia, Lena Olin, Richard Dreyfuss, Ian Holm, Ron Leibman",United States,1997,R,114 min,Drama
+s1499,Movie,NGK,K. Selvaraghavan,"Suriya, Sai Pallavi, Rakul Preet Singh",India,2019,ALL,147 min,Drama
+s1508,Movie,Neeti Palta - Almost Sanskari,Nenshad H. Karbhari,Neeti Palta,India,2019,18+,58 min,Comedy
+s1515,Movie,Nawabzaade,Jayesh Pradhan,"Raghav Juyal, Dharmesh Yelande, Punit Pathak, Isha Rikhi, Sanjeeda Sheikh",India,2018,13+,110 min,"Comedy, International"
+s1572,Movie,Mumbai Pune Mumbai 3,Satish Rajwade,"Swapnil Joshi, Mukta Barve, Prashant Damle, Mangal Kenkre, Vijay Kenkre, Savita Prabhune",India,2018,13+,139 min,"Comedy, Drama, International"
+s1574,Movie,Muklawa,Simerjit Singh,"Ammy Virk, Sonam Bajwa, Gurpreet Ghuggi, BN Sharma, Karamjit Anmol, Sarbjit Cheema",India,2019,13+,111 min,"Comedy, Drama, International"
+s1580,Movie,Mr. Imperium,Don Hartman,"Debbie Reynolds, Lana Turner, Englo Pinza, Marjorie Main, Barry Sullivan",United States,1951,13+,87 min,Drama
+s1581,Movie,Mr. Family Man,Kreeti Gogia,Praveen Kumar,India,2020,16+,55 min,"Arts, Entertainment, and Culture, Comedy"
+s1626,Movie,Monster,Nelson Venkatesan,"SJ Surya, Priya Bhavani Shankar, Karunakaran, Anil Kumar",India,2019,ALL,138 min,"Comedy, Drama"
+s1650,Movie,Missing,Mukul Abhyankar,"Tabu, Manoj Bajpayee, Annu Kapoor",India,2018,13+,120 min,"International, Suspense"
+s1677,Movie,Middle Class Melodies,Vinod Anantoju,"Anand Deverakonda, Varsha Bollamma, Chaitanya, Divya Drishti",India,2020,16+,136 min,"Comedy, Drama"
+s1703,Movie,MCA (Middle Class Abbayi),Venu Sriram,"Nani, Sai Pallavi, Bhumika Chawla",India,2017,13+,138 min,"Drama, International"
+s1707,Movie,Maximum Ride,Jay Martin,"Allie Marie Evans, Patrick Johnson, Lyliana Wray, Luke Gregory Crosby, Gavin Lewis",United States,2016,PG-13,88 min,"Action, Science Fiction"
+s1715,Movie,Mathu Vadalara,Ritesh Rana,"Sri Simha Koduri, Athulya Chandra, Vennela Kishore, Satya Akkala, Naresh Agastya",India,2019,16+,129 min,Drama
+s1784,Movie,Luv Ka The End,Bumpy,"Taaha Shah, Shraddha Kapoor, Riya Bamniyal, Sreejita De, Micky Makhija, Rahul Pardasany, Ali Zafar, Archana Puran Singh, Pushtiie S., Meherzan B. Mazda, Jannat Zubair Rahmani, Errol Peter Marks, Neha Gehlot, Lavanya Jain, Shenaz Treasuryvala, Arjun Sablok, Mahabanoo Mody Kotwal",India,2011,18+,107 min,"Comedy, Drama, International"
+s1797,Movie,"Love, Kennedy",T.C. Christensen,"Jasen Wade, Heather Beers, Tatum Chiniquy",United States,2017,PG,92 min,Faith and Spirituality
+s1800,Movie,Love Simple,Mark von Sternberg,"Francisco Solorzano, Patrizia Hernandez, Israel Horovitz, Caitlin Fitzgerald, John Harlacher",United States,2011,16+,86 min,Drama
+s1898,Movie,LAW,Raghu Samarth,"Ragini Prajwal, Mukhyamantri Chandru, Sudharani, Achyuth Kumar, Avinash, Rajesh Nataranga, Krishna Hebbale, Mandya Ramesh, Nagaraj Murthy, Siri Prahlad, Madhu Hegde, Likhitesh, Imran Pasha",India,2020,16+,120 min,Suspense
+s1922,Movie,KROOS (4K UHD),Manfred Oldenburg,"Toni Kroos, Jessica Kroos, Felix Kroos, Gareth Bale, Casemiro, Luka Modrić, Florentino Pérez, Sergio Ramos, José Ángel Sánchez, Pep Guardiola, Jupp Heynckes, Uli Hoeneß, Miroslav Klose, Joachim Löw, Matthias Sammer, Zinédine Zidane, Sascha Breese, Dirk Hebel, Volker Struth, Marcel Reif, Robbie Williams",Germany,2019,G,114 min,"Documentary, Special Interest"
+s1923,Movie,KROOS,Manfred Oldenburg,"Toni Kroos, Jessica Kroos, Felix Kroos, Gareth Bale, Casemiro, Luka Modrić, Florentino Pérez, Sergio Ramos, José Ángel Sánchez, Pep Guardiola, Jupp Heynckes, Uli Hoeneß, Miroslav Klose, Joachim Löw, Matthias Sammer, Zinédine Zidane, Sascha Breese, Dirk Hebel, Volker Struth, Marcel Reif, Robbie Williams",Germany,2019,13+,114 min,"Documentary, Special Interest"
+s1931,Movie,Knights of Badassdom,Joe Lynch,"Ryan Kwanten, Peter Dinklage, Steve Zahn",United States,2014,R,86 min,"Action, Comedy, Fantasy"
+s1956,Movie,Kesari,Anurag Singh,"Akshay Kumar, Parineeti Chopra, Suvinder Vicky",India,2019,16+,153 min,"Action, Drama, Historical"
+s1966,Movie,Kapatadhaari (4K UHD),Pradeep Krishnamoorthy,"Sumanth, Nanditha Swetha, Nasser, JP",India,2021,13+,137 min,Suspense
+s1967,Movie,Kapatadhaari,Pradeep Krishnamoorthy,"Sumanth, Nanditha Swetha, Nasser, JP",India,2021,NR,137 min,Suspense
+s1971,Movie,Kalank,Abhishek Varman,"Varun Dhawan, Alia Bhatt, Madhuri Dixit, Aditya Roy Kapoor, Sonakshi Sinha, Sanjay Dutt",India,2019,13+,166 min,"Drama, International, Romance"
+s1974,Movie,Kadaikutty Singam,Pandiraj,"Karthi, Sayyeshaa, Sathyaraj, Priya Bhavani Shankar, Arthana Vijayakumar, Soori",India,2018,ALL,148 min,"Action, Adventure, Drama"
+s1977,Movie,Kabadadaari (4K UHD),Pradeep Krishnamoorthy,"Sibi Sathyaraj, Nanditha Swetha, Nasser, JP",India,2021,16+,137 min,Suspense
+s1978,Movie,Kabadadaari,Pradeep Krishnamoorthy,"Sibi Sathyaraj, Nanditha Swetha, Nasser, JP",India,2021,16+,137 min,Suspense
+s2005,Movie,Joni,James F. Collier,"Joni Eareckson Tada, Bert Remsen, Katherine DeHetre, Cooper Huckabee, John Milford, Michael Mancini",United States,1979,PG,112 min,Drama
+s2080,Movie,Ishqeria,Prerna Wadhawan,"Neil Nitin Mukesh, Richa Chadha, Manish Anand, Gurbani, Juby Devasia",India,2018,13+,118 min,"Comedy, Drama, International"
+s2081,Movie,Ishq,Anuraj Manohar,"Shane Nigam, Ann Sheethal, Shine Tom Chacko, Lenoa Lishoy",India,2019,13+,133 min,"Drama, International, Suspense"
+s2082,Movie,Ishaqzaade,Habib Faisal,"Arjun Kapoor, Parineeti Chopra",India,2012,PG,132 min,International
+s2096,Movie,Instant Death,Ara Paiaya,Lou Ferrigno,United Kingdom,2017,18+,84 min,Action
+s2113,Movie,Inconceivable,Jonathan Baker,"Nicolas Cage, Gina Gershon, Faye Dunaway, Nicky Whelan, Natalie Eva Marie","United Kingdom, United States",2017,R,106 min,Suspense
+s2185,Movie,Hostile Border,"Michael Dwyer, Kaitlin McLaughlin","Veronica Sixtos, Roberto Urbina, Julio Cedillo, Jorge A. Jimenez, Jesse Garcia, Maria Del Carmen Farias",United States,2016,R,84 min,"Action, Drama, Western"
+s2193,Movie,Honest Thief,Mark Williams,"Liam Neeson, Kate Walsh, Robert Patrick, Anthony Ramos, Jeffrey Donovan, Jai Courtney",United States,2020,PG-13,99 min,"Action, Suspense"
+s2222,Movie,Hero,P.S. Mithran,"Sivakarthikeyan, Arjun Sarja, Abhay Deol, Kalyani Priyadarshan, Ivana",India,2019,16+,159 min,"Action, Drama, International"
+s2229,Movie,Hello Guru Prema Kosame,Trinadha Rao Nakkina,"Ram Pothineni, Anupama Parmeshwaran",India,2018,13+,136 min,"International, Romance"
+s2249,Movie,Harold and Maude,Hal Ashby,"Ruth Gordon, Bud Cort, Tom Skerritt",United States,1971,PG,92 min,"Comedy, Drama"
+s2274,Movie,Gumnaami - Hindi,Srijit Mukherji,"Prosenjit Chatterjee, Anirban Bhattacharya, Tanusree Chakraborty",India,2020,13+,139 min,"Drama, Suspense"
+s2276,Movie,Gulabo Sitabo (4K UHD),Shoojit Sircar,"Amitabh Bachchan, Ayushmann Khurrana, Farrukh Jafar, Vijay Raaz, Brijendra Kala, Srishti Shrivastava",India,2020,16+,125 min,International
+s2292,Movie,Green is Gold,Ryon Baxter,"Jimmy Baxter, Ryon Baxter, David Fine, Shelley Mitchell, Ian Mcdavid, Liz Clare",United States,2016,R,82 min,"Arts, Entertainment, and Culture, Drama, Young Adult Audience"
+s2304,Movie,Goyenda Junior,Mainak Bhaumik,"Rwitobroto Mukherjee, Shantilal Mukherjee, Anusha Viswanathan",India,2019,ALL,118 min,"International, Suspense"
+s2311,Movie,Goodachari,Sashi Kiran Tikka,"Adivi Sesh, Sobhita Dhulipala, Madhu Shalini",India,2018,18+,142 min,"International, Suspense"
+s2337,Movie,Gleason,Clay Tweel,"Steve Gleason, Michel Varisco, Rivers Gleason, Scott Fujita, Drew Brees, Mike Mccready, Blair Casey, Eddie Vedder",United States,2016,R,111 min,"Documentary, Sports"
+s2339,Movie,Girlz,Vishal Devrukhkar,"Ankita Lande, Ketaki Narayan, Anvita Phaltankar, Parth Bhalerao, Devika Daftardar",India,2019,13+,135 min,"Comedy, Drama"
+s2350,Movie,Gimme Danger,Jim Jarmusch,"Iggy Pop, Ron Asheton, ScottAsheton, James Williamson, Steve Mackay, Mike Watt, Kathy Asheton, Danny Fields",United States,2016,R,109 min,"Documentary, Music Videos and Concerts, Special Interest"
+s2360,Movie,Ghawre Bairey Aaj,Aparna Sen,"Anirban Bhattacharya, Jisshu U Sengupta, Tuhina Das",India,2019,16+,134 min,Drama
+s2365,Movie,Get Duked!,Ninian Doff,"Eddie Izzard, Kate Dickie, James Cosmo, Samuel Bottomley, Viraj Juneja, Rian Gordon, Lewis Gribben",United Kingdom,2020,16+,87 min,"Adventure, Comedy"
+s2372,Movie,Generation Aami,Mainak Bhaumik,"Sauraseni Maitra, Rwitobroto Mukherjee, Shantilal Mukherjee, Aparajita Auddy",India,2018,13+,119 min,"Arts, Entertainment, and Culture, Drama, International"
+s2382,Movie,Gascoigne,Jane Preston,"Paul Gascoigne, Vinnie Jones, Gary Lineker, José Mourinho",United Kingdom,2015,16+,87 min,Documentary
+s2392,Movie,Gangsta,"Adil El Arbi, Bilall Fallah","Dimitri 'Vegas' Thivaios, Paloma Aguilera Valdebenito, Eduardo Almeida, Ali B., Gene Bervoets, François Beukelaers, Saïd Boumazoughe, Aza Declercq",Belgium,2018,18+,125 min,"Action, Suspense"
+s2425,Movie,French Biriyani,Pannaga Bharana,"Danish Sait, Disha Madan, Rangayana Raghu, Nagabhushana, Sindhu Murty, Mahantesh Hiremath, Sampath Kumar, Mohammed Ashraf, Kirthana Kumar, Michael Madhu, Pitobash, Nagesh Jaikumar, Prashanth, RJ Vikish, Chikkanna",India,2020,16+,117 min,"Action, Comedy"
+s2511,Movie,Falcon Rising,Ernie Barbarash,"Michael Jai White, Neal McDonough, Laila Ali, Jimmy Navarro, Millie Ruperto, Masashi Odate, Hazuki Kato, Lateef Crowder",United States,2014,R,101 min,Action
+s2512,Movie,Falaknuma Das,Vishwak Sen,"Vishwak Sen, Saloni Mishra, Harshita Gaur, Vivek Tony, Uttej",India,2019,18+,145 min,"Action, Drama, International"
+s2523,Movie,F2 - Fun and Frustration,Anil Ravipudi,"Venkatesh, Varun Tej, Tamannaah, Mehreen Pirzada",India,2019,13+,148 min,"Comedy, International"
+s2535,Movie,Everybody's Game,Beno Obano,"Maro Itoje, Beno Obano, Anthony Watson, Ellis Genge, Biyi Alo",United Kingdom,2020,16+,53 min,Documentary
+s2539,Movie,ETs Among Us: UFO Witnesses and Whistleblowers,Cybela Clare,"JIM MARRS, PAUL HELLYER, CLIFFORD STONE, NICK POPE, DAVID JACOBS, WENDELLE C. STEVENS, MICHAEL SALLA, JACQUES VALLEE, RICHARD DOLAN, DAVID HATCHER CHILDRESS",United States,2016,13+,91 min,Special Interest
+s2540,Movie,"ETs Among Us 2: Our Alien Origins, Antarctica, Mars and Beyond",Cybela Clare,"Linda Moulton Howe, Nick Pope, Richard Dolan, Robert Morningstar, Debbie Ziegelmeyer, Len Kasten",United States,2018,7+,55 min,Special Interest
+s2554,Movie,Enai Noki Paayum Thota,Gautham Menon,"Dhanush, Megha Akash, Sasikumar",India,2019,16+,151 min,"Action, Suspense"
+s2599,Movie,DSP DEV,Mandeep Benipal,"Dev Kharoud, Mehreen Pirzada, Manav Vij, Aman Dhaliwal, Girija Shankar, Shavinder Mahal, Nita Mohindra, Tarsem Paul",India,2019,13+,141 min,"Action, Drama, Suspense"
+s2604,Movie,Drishyam 2,Jeethu Joseph,"Mohanlal, Meena, Siddique, Murali Gopy, Asha Sharath, Ganesh Kumar, Ansiba, Esther Anil, Anjali Nair, Saikumar, Antony Perumbavoor",India,2021,13+,153 min,Drama
+s2640,Movie,DocoBanksy,Dominic Wade,"Kate Brindley, Robbie Conal, Simon Hattenstone, Ivan Massow","United Kingdom, United States",2014,18+,59 min,Documentary
+s2674,Movie,Dhoom,Sanjay Gadhvi,"John Abraham, Abhishek Bachchan, Uday Chopra, Rimi Sen, Esha Deol, Manoj Joshi",India,2004,13+,129 min,"Action, International"
+s2675,Movie,Dhadak,Shashank Khaitan,"Janhvi Kapoor, Ishaan Khattar, Ashutosh Rana, Aditya Kumar, Kharaj Mukherjee",India,2018,13+,137 min,"Drama, International"
+s2694,Movie,Dear Comrade,Bharat Kamma,"Vijay Deverakonda, Rashmika Mandanna",India,2019,13+,167 min,"Action, Drama, Romance"
+s2710,Movie,Dawn Rider,Terry Miles,"Christian Slater, Jill Hennessey, Donald Sutherland",Canada,2012,18+,94 min,"Action, Drama, Western"
+s2759,Movie,Crips and Bloods: Made in America,Stacy Peralta,"Jim Brown, Forest Whitaker",United States,2008,16+,94 min,Documentary
+s2789,Movie,Coolie No. 1,David Dhawan,"Varun Dhawan, Sara Ali Khan, Paresh Rawal, Javed Jaffery, Rajpal Yadav, Sahil Vaid, Johny Lever, Shikha Talsania, Vikas Verma, Anil Dhawan, Manoj Joshi, Bharti Achrekar",India,2020,13+,135 min,"Comedy, Drama"
+s2790,Movie,Cool World,Ralph Bakshi,"Kim Basinger, Gabriel Byrne, Brad Pitt, Michele Abrams",United States,1992,PG-13,102 min,"Action, Animation, Fantasy"
+s2810,Movie,Coldplay: A Head Full Of Dreams,Mat Whitecross,"Guy Berryman, Jonny Buckland, Will Champion, Chris Martin",United Kingdom,2018,PG-13,105 min,"Documentary, Music Videos and Concerts"
+s2856,Movie,Choricha Mamla,Priyadarshan Jadhav,"Jitendra Joshi, Amruta Khanvilkar, Aniket Vishwasrao, Kshitee Jog, Hemant Dhome, Kirti Pendharkar",India,2020,13+,132 min,Comedy
+s2858,Movie,Chocolate City,Jean-Claude La Marre,"Robert Ri'chard, Tyson Beckford, Deray Davis, Imani Hakim, Darrin Dewitt Henson",United States,2015,R,91 min,Drama
+s2867,Movie,Chicken People,Nicole Lucas Haimes,"Brian Caraker, Brian Knox, Shari McCollough",United States,2016,13+,83 min,"Documentary, Special Interest"
+s2869,Movie,Chiara Ferragni: Unposted [English Subbed],Elisa Amoruso,Chiara Ferragni,Italy,2019,16+,88 min,Documentary
+s2873,Movie,Chhalaang,Hansal Mehta,"Rajkummar Rao, Nushrratt Bharuchaa",India,2020,13+,136 min,"Comedy, Drama"
+s2900,Movie,Catch Hell,Ryan Phillippe,"Ryan Phillippe, Ian Barford, Stephen Louis Grush",United States,2014,18+,97 min,"Action, Drama, Suspense"
+s2938,Movie,C U Soon (4K UHD),Mahesh Narayan,"Fahadh Faasil, Darshana Rajendran, Roshan Mathew, Saiju Kurup, Mala Parvathy",India,2020,16+,98 min,"Drama, Suspense"
+s2939,Movie,C U Soon,Mahesh Narayan,"Fahadh Faasil, Darshana Rajendran, Roshan Mathew, Saiju Kurup, Mala Parvathy",India,2020,16+,98 min,"Drama, Suspense"
+s2983,Movie,Brad's Status,Mike White,"Ben Stiller, Austin Abrams, Jenna Fischer, Luke Wilson, Michael Sheen",United States,2017,R,102 min,"Comedy, Drama"
+s2988,Movie,Boys (English Subtitled),Mischa Kamp,"Stijn Taverne, Gijs Blom, Ton Kas, Jonas Smulders, Ko Zandvliet",Netherlands,2015,16+,77 min,"LGBTQ, Romance, Sports"
+s2989,Movie,Boynton Beach Club,Susan Seidelman,"Dyan Cannon, Sally Kellerman, Brenda Vaccaro, Len Cariou, Joseph Bologna",United States,2006,R,105 min,"Comedy, Romance"
+s2997,Movie,Bornoporichoy,Mainak Bhaumik,"Jisshu Sengupta, Abir Chatterjee, Priyanka Sarkar",India,2019,16+,102 min,"Drama, International"
+s3023,Movie,Blow The Man Down,"Danielle Krudy, Bridget Savage Cole","Morgan Saylor, Sophie Lowe, Margo Martindale, June Squibb, Annette O'Toole, Marceline Hugot",United States,2020,R,91 min,"Comedy, Drama, Suspense"
+s3047,Movie,Blackmail,Abhinay Deo,"Irrfan Khan, Kirti Kulhari, Arunoday Singh, Omi Vaidya, Gajraj Rao, Divya Dutta",India,2018,13+,137 min,"Action, Comedy, International"
+s3051,Movie,Black Water,Pasha Patriki,"Dolph Lundgren, Jean-Claude Van Damme, Patrick Kilpatrick, Jasmine Waltz","Canada, United States",2018,R,105 min,"Action, Adventure"
+s3054,Movie,Black Robe,Bruce Beresford,"Lothaire Bluteau, Aden Young, Sandrine Holt",United States,1991,R,101 min,"Action, Drama"
+s3080,Movie,Bhoot Part One - The Haunted Ship,Bhanu Pratap Singh,"Vicky Kaushal, Bhumi Pednekar, Ashutosh Rana",India,2020,16+,110 min,"Horror, International"
+s3081,Movie,Bhoot Chaturdashi,Shabbir Mallick,"Aryann Bhowmik, Ena Saha, Deepsheta Mitra, Soumendra Bhattacharya",India,2019,13+,98 min,Horror
+s3084,Movie,Bharat,Ali Abbas Zafar,"Salman Khan, Katrina Kaif, Jackie Shroff, Disha Patani, Sunil Grover, Guest Appearance - Tabu",India,2019,13+,155 min,"Drama, International"
+s3086,Movie,Beyond the Sky,Fulvio Sestito,"Ryan Carnes, Peter Stormare, Dee Wallace, Martin Sensmeier, Jordan Hinson, Don Stark",United States,2018,18+,82 min,"Science Fiction, Suspense"
+s3099,Movie,Beowulf,Robert Zemeckis,"Ray Winstone, Anthony Hopkins, John Malkovich, Robin Wright, Brendan Gleeson, Crispin Glover, Alison Lohman, Angelina Jolie","United States, United Kingdom",2007,PG-13,114 min,"Action, Fantasy"
+s3133,Movie,Be Somebody,Joshua Caldwell,"Matt Espinosa, Sarah  Jeffery, Allison Paige",United States,2016,PG,87 min,Comedy
+s3141,Movie,Bastille - ReOrchestrated,"Tom Middleton, Toby L",Bastille,United Kingdom,2021,16+,71 min,"Documentary, Music Videos and Concerts"
+s3148,Movie,Barista,Rock Baijnauth,"Truman Severson, Charles Babinski, Charlie Habegger, Eden-Marie Abramowicz, Ryan Redden",United States,2015,16+,102 min,"Documentary, Special Interest"
+s3187,Movie,Ayogya,Venkat Mohan,"Vishal, Raashi Khanna, Parthiban",India,2019,13+,148 min,"Action, Drama, International"
+s3205,Movie,Ashley,Dean Matthew Ronalds,"Nicole Arianna Fox, Michael Madsen, Holly Taylor",United States,2013,13+,91 min,Drama
+s3234,Movie,Any Day Now,Travis Fine,"Alan Cumming, Garret Dillahunt",United States,2012,R,98 min,"Drama, LGBTQ"
+s3259,Movie,Andy Murray: Resurfacing,Olivia Cappuccini,Andy Murray,United Kingdom,2019,16+,109 min,Documentary
+s3290,Movie,American Animals,Bart Layton,"Evan Peters, Barry Keoghan, Blake Jenner, Jared Abrahamson, Udo Kier, Ann Dowd","United Kingdom, United States",2018,R,117 min,"Action, Drama"
+s3304,Movie,Amal,Richie Mehta,"Rupinder Nagra, Naseeruddin Shah, Seema Biswas, Koel Purie, Vik Sahay, Roshan Seth",Canada,2008,18+,104 min,Drama
+s3374,Movie,Aadai,Rathna Kumar,"Amala Paul, Ramya Subramanian, Ananya Ramaprasad, Sriranjani, Vivek Prasanna",India,2019,18+,127 min,Suspense
+s3375,Movie,A Year in Port,David Kennard,Martine Saunier,"United States, Portugal",2016,16+,86 min,"Documentary, Special Interest"
+s3376,Movie,A Year in Champagne,David Kennard,Martine Saunier,"United States, France",2015,13+,82 min,"Documentary, Special Interest"
+s3377,Movie,A Year in Burgundy,David Kennard,Martine Saunier,"United States, France",2013,13+,89 min,"Documentary, Special Interest"
+s3406,Movie,A Mighty Heart,Michael Winterbottom,"Angelina Jolie, Dan Futterman, Irrfan Khan, Archie Panjabi, Will Patton, Jillian Armenante, Denis O'Hare, Demetri Goritsas, Kimberly Ensey, Jacob Gaffney","United States, United Kingdom",2007,18+,108 min,Drama
+s3419,Movie,A Girl Like Her,Amy S. Weber,"Hunter King, Lexi Ainsworth, Jimmy Bennett",United States,2013,16+,92 min,Drama
+s3444,Movie,9/11 Phone Calls from the Towers,James Kent,Steven Mackintosh,United Kingdom,2009,16+,74 min,"Documentary, Special Interest"
+s3466,Movie,36 Husbands,Michael Glover,"Christa Pasch, Roberta Bianchini, Nadine Nourney, Dominic Anglim, Howard Corlett, Tony Moore, Felix Kosse, Michael Glover, Robyn Rosenkrantz",United States,2020,13+,83 min,Comedy
+s3562,Movie,102 Not Out,Umesh Shukla,"Amitabh Bachchan, Rishi Kapoor, Jimit Trivedi",India,2018,13+,104 min,"Comedy, Drama"
+s3585,Movie,The Real Inglorious Bastards,Min Sook Lee,"Robert Nolan, Patrick O'Donnell, Fred Mayer, Gerald Schwab, John Billings, Ani Weber, Manfred Weber, Steve Shand, Erik Markewich, Sean Connolly Affleck, Shawn Devlin, Owen Bevan, Maarik Pinkney, Ben Davidson, Linzee Barclay",Canada,2012,13+,52 min,Documentary
+s3588,Movie,The Mothman of Point Pleasant,Seth Breedlove,"Lyle Blackburn, Jeff Wamsley",United States,2017,13+,67 min,"Documentary, Drama, Horror"
+s3591,Movie,The Lighthouse,Robert Eggers,"Willem Dafoe, Robert Pattinson, Valeriia Karaman","Canada, United States, Brazil",2019,R,109 min,"Drama, Horror"
+s3592,Movie,The Goldfinch,John Crowley,"Ansel Elgort, Oakes Fegley, Aneurin Barnard, Finn Wolfhard, Ashleigh Cummings, Willa Fitzgerald, Aimee Laurence, Sarah Paulson, Luke Wilson, Jeffrey Wright, Nicole Kidman, Denis O'Hare, Boyd Gaines, Peter Jacobson, Luke Kleintank, Robert Joy",United States,2019,R,149 min,Drama
+s3596,Movie,The Big Sick,Michael Showalter,"Kumail Nanjiani, Zoe Kazan, Holly Hunter, Ray Romano, Anupam Kher",United States,2017,R,120 min,"Comedy, Drama, Romance"
+s3620,Movie,Midnight Crossing,Roger Holzberg,"Faye Dunaway, Daniel J. Travanti, Kim Cattrall, John Laughlin, Ned Beatty",United States,1988,R,97 min,Suspense
+s3621,Movie,Maara,Dhilip Kumar,"R.Madhavan, Shraddha Srinath, Sshivada, Mouli, Alexander Babu, M.S.Bhaskar, Guru Somasundaram, Kishore, Abhirami",India,2021,13+,150 min,Romance
+s3641,Movie,"Don't Worry, He Won't Get Far on Foot",Gus Van Sant,"Joaquin Phoenix, Jonah Hill, Rooney Mara, Jack Black","France, United States",2018,R,114 min,"Arthouse, Comedy, Drama"
+s3676,Movie,Never Surrender: A Galaxy Quest Documentary,Jack Bennett,"Sigourney Weaver, Tim Allen, Sam Rockwell, Justin Long, Tony Shalhoub, Rainn Wilson, Enrico Colantoni, Brent Spiner, Wil Wheaton, Damon Lindelof, Greg Berlanti",United States,2019,13+,87 min,"Documentary, Science Fiction, Special Interest"
+s3691,Movie,Blood Fest,Owen Egerton,"Robbie Kay, Seychelle Gabriel, Jacob Batalon, Tate Donovan, Zachary Levi",United States,2018,18+,93 min,Horror
+s3697,Movie,Anbirkiniyal,Gokul,"Keerthi Pandian, Arun Pandian, Praveen Raja",India,2021,ALL,123 min,"Drama, Suspense"
+s3713,Movie,Tumhari Sulu,Suresh Triveni,"Vidya Balan, Neha Dhupia, Manav Kaul, Vijay Maurya, Santanu Ghatak, Malishka Mendonsa, Vibhawari Deshpande, Abhishek Sharrma, Seema Taneja, Sindhu Shekharan, Trupti Khamkar, Siddhaanth Samant, Uday Lagoo",India,2017,ALL,139 min,"Comedy, Drama, International"
+s3737,Movie,The Last Black Man in San Francisco,Joe Talbot,"Jimmie Fails, Jonathan Majors, Danny Glover, Finn Wittrock, Tichina Arnold, Rob Morgan, Mike Epps",United States,2019,R,121 min,Drama
+s3740,Movie,The Identical,Dustin Marcellino,"Ray Liotta, Ashley Judd, Seth Green, Joe Pantoliano, Blake Rayne, Erin Cottrell, Brian Geraghty, Amanda Crew",United States,2014,PG,107 min,Drama
+s3741,Movie,The Hiding Place,James F. Collier,"Julie Harris, Jeannette Clift, Eileen Heckart, Arthur O'Connell",United States,1975,13+,146 min,Drama
+s3749,Movie,The Busy Little Engine,Desmond Mullen,"Desmond Mullen, Pig, Busy Little Engine, Lorrie Guess",United States,2007,ALL,34 min,"Animation, Kids"
+s3763,Movie,Srinivasa Kalyanam,Satish Vegesna,"Nithin, Raashi Khanna, Nandita Swetha",India,2018,ALL,139 min,"Drama, International"
+s3772,Movie,Shubh Mangal Zyada Saavdhan,Hitesh Kewalya,"Ayushmann Khurrana, Jitendra Kumar, Gajraj Rao, Neena Gupta, Manu Rishi Chadha, Maanvi Gagroo, Sunita Rajwar",India,2020,16+,118 min,"Comedy, International, LGBTQ"
+s3778,Movie,Satyameva Jayate,Milap Zaveri,"John Abraham, Manoj Bajpayee, Aisha Sharma, Amruta Khanvilkar, Manish Chaudhary",India,2018,18+,140 min,"Action, Adventure, International"
+s3784,Movie,Resurrection of Jake The Snake,Steve Yu,"Jake the Snake Roberts, Diamond Dallas Page, Steve Yu, Steve Austin, Adam Copeland, Jim Ross, Scott Hall, Gene Okerland, Dustin Rhodes",United States,2015,16+,97 min,"Documentary, Sports"
+s3788,Movie,Raatchasi,Sy Gowthamraj,"Jyotika, Poornima Bhagyaraj, Satyan, Hareesh Peradi",India,2019,ALL,133 min,"Drama, International, Kids"
+s3789,Movie,Putham Pudhu Kaalai,"Sudha Kongara, Gautham Vasudev Menon, Suhasini Mani Ratnam, Rajiv Menon, Karthik Subbaraj","Jayaram, Oorvasi, Kalidas Jayaram,  Kalyani Priyadarshan,  M S Baaskar,  Ritu Varma,  Shruti Haasan,  Suhasini Mani Ratnam,  Anu Hasan,  Kathadi Ramamurthy,  Komalam Charuhasan,  Andrea Jeremiah,  Gurucharan C,  Leela Samson,  Simha,  Sharath Ravi,  K Muthukumar",India,2020,16+,129 min,Drama
+s3792,Movie,Primal Rage,Patrick Magee,"Andrew Joseph Montgomery, Casey Gagliardi, Eloy Casados, Marshal Hilton, Justin Rain",United States,2018,R,106 min,"Drama, Horror, Suspense"
+s3795,Movie,Painted Horses,Damian X. Fulton,"Madelyn Deutch, Linc Hand, Deana Carter, Terri Minton, Kendall Ryan Sanders, Grace Fulton",United States,2017,13+,92 min,Drama
+s3809,Movie,Mitron,Nitin Kakkar,"Jackky Bhagnani, Kritika Kamra, Prateek Gandhi, Neeraj Sood",India,2018,13+,116 min,"Comedy, International"
+s3818,Movie,Mardaani 2,Gopi Puthran,"Rani Mukerji, Vishal Jethwa, Sumit Nijhawan, Shruti Bapna, Vikram Singh Chauhan, Deepika Amin, K.C.Shankar, Rajesh Sharma, Jishu Sengupta, Avneet Kaur",India,2019,13+,103 min,"Action, Drama, Suspense"
+s3820,Movie,Maharshi,Vamshi Paidipally,"Mahesh Babu, Allari Naresh, Pooja Hegde","India, United States",2019,7+,177 min,"Action, Drama, International"
+s3846,Movie,It's A Wonderful Life (Black & White Version),Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell, Henry Travers, Beulah Bondi",United States,1946,13+,131 min,Drama
+s3879,Movie,Evaru,Venkat Ramji,"Adivi Sesh, Regina Cassandra, Naveen Chandra",India,2019,13+,115 min,"Drama, International"
+s3885,Movie,Durgamati - The Myth,Ashok G.,"Bhumi Pednekar, Arshad Warsi, Jisshu Sengupta, Mahie Gill, Karan Kapadia",India,2020,16+,156 min,"Horror, Suspense"
+s3886,Movie,Driving Licence,Jean Paul Lal,"Prithviraj Sukumaran, Suraj Venjaramood, Deepti Sati, Miya George",India,2019,13+,133 min,Drama
+s3889,Movie,Dead Space: Aftermath,Mike Disa,"Christopher Judge, Gwendoline Yeo, Peter Woodward, Ricardo Chavira",United States,2011,ALL,78 min,"Animation, Suspense"
+s3897,Movie,Coolie No. 1 (4K UHD),David Dhawan,"Varun Dhawan, Sara Ali Khan, Paresh Rawal, Javed Jaffery, Rajpal Yadav, Sahil Vaid, Johny Lever, Shikha Talsania, Vikas Verma, Anil Dhawan, Manoj Joshi, Bharti Achrekar",India,2020,13+,135 min,"Comedy, Drama"
+s3905,Movie,Can We Take a Joke?,Ted Balaker,"Gilbert Gottfried, Penn Jillette, Adam Carolla, Lisa Lampanelli, Jim Norton, Heather McDonald, Karith Foster, Christina Pazsitzky",United States,2016,13+,75 min,"Arthouse, Arts, Entertainment, and Culture, Comedy"
+s3921,Movie,Asuran,Vetrimaaran,"Dhanush, Manju Warrier, Ken Karunas, Teejay Arunasalam, Pasupathy, Prakash Raj, Ammu Abirami, Balaji Sakthivel",India,2019,18+,139 min,"Action, Drama, International"
+s3922,Movie,Assault on Wall Street,Uwe Boll,"Dominic Purcell, Erin Karpluk, Edward Furlong","Canada, United States",2013,R,99 min,"Action, Suspense"
+s3947,Movie,Tumbbad,"Rahi Anil Barve, Adesh Prasad","Sohum Shah, Jyoti Malshe, Dhundhiraj Prabhakar Jogalekar, Anita Date, Deepak Damle","India, Sweden",2018,18+,105 min,"Horror, International, Suspense"
+s3953,Movie,The Aeronauts,Tom Harper,"Felicity Jones, Eddie Redmayne, Himesh Patel, Tom Courtenay","United Kingdom, United States",2019,PG-13,100 min,"Adventure, Drama, Romance"
+s3956,Movie,Peterloo,Mike Leigh,"Rory Kinnear, Maxine Peake, Neil Bell, Philip Jackson, Vincent Franklin, Karl Johnson, Tim McInnerny",United Kingdom,2019,PG-13,154 min,Drama
+s3960,Movie,My Dad's Christmas Date,Mick Davis,"Jeremy Piven, Olivia Mai Barrett, Hadar Cats, Megan Brown Martinez, Roger Aston-Griffiths, Nathalie Cox, Joely Richardson",United Kingdom,2020,13+,91 min,Comedy
+s3973,Movie,Fanney Khan,Atul Manjrekar,"Aishwarya Rai Bachchan, Anil Kapoor, Rajkummar Rao, Divya Dutta, Swati Semwal",India,2018,13+,129 min,"Arts, Entertainment, and Culture, Comedy, Drama"
+s3975,Movie,Chhalaang (4K UHD),Hansal Mehta,"Rajkummar Rao, Nushrratt Bharuchaa",India,2020,13+,136 min,"Comedy, Drama"
+s3998,Movie,Seberg,Benedict Andrews,"Kristen Stewart, Jack O’Connell, Margaret Qualley, Zazie Beetz, Yvan Attal, Stephen Root, Colm Meany, Vince Vaughn, Anthony Mackie","United Kingdom, United States",2020,R,103 min,"Drama, Suspense"
+s4036,Movie,Archive,Gavin Rothery,"Theo James, Stacy Martin, Rhona Mitra","United Kingdom, Hungary, United States",2020,16+,109 min,"Arts, Entertainment, and Culture, Fantasy, Science Fiction"
+s4047,Movie,The Wall,Doug Liman,"Aaron Taylor-Johnson, John Cena, Laith Nakli",United States,2017,R,90 min,"Drama, Military and War, Suspense"
+s4057,Movie,Manhunt: Search for the Night Stalker,Bruce Seth Green,"Richard Jordan, A Martinez, Julie Carmen, Alan Feinstein, Lisa Eilbacher, Soon-Tek Oh",United States,1989,16+,95 min,"Documentary, Suspense"
+s4067,Movie,Gulabo Sitabo,Shoojit Sircar,"Amitabh Bachchan, Ayushmann Khurrana, Farrukh Jafar, Vijay Raaz, Brijendra Kala, Srishti Shrivastava",India,2020,16+,125 min,International
+s4133,Movie,Ninnu Kori,Shiva Nirvana,"Nani, Nivetha Thomas, Aadhi Pinisetty",India,2017,ALL,136 min,"Drama, International, Romance"
+s4136,Movie,Milk Money,Richard Benjamin,"Ed Harris, Melanie Griffith, Michael Patrick Carter, Malcolm McDowell, Philip Bosco, Anne Hesch, Casey Siemaszko, Brian Christopher, Adam LaVorgna, Kevin Scannell",United States,1994,PG-13,109 min,"Adventure, Comedy, Drama"
+s4172,Movie,Alex James: Slowing Down Fast Fashion,Ben Akers,Alex James,"United Kingdom, France, United States",2016,7+,65 min,"Documentary, Special Interest"
+s4184,Movie,Time,Garrett Bradley,"Fox Rich, Rob G. Rich",United States,2020,PG-13,81 min,Documentary
+s4200,Movie,Dudes & Dragons,"Maclain Nelson, Stephen Shimek","James Marsters, Kaitlin Doubleday, Luke Perry, Adam Johnson",United States,2016,13+,114 min,"Action, Adventure, Fantasy"
+s4211,Movie,Andy Murray: Resurfacing (4K UHD),Olivia Cappuccini,Andy Murray,United Kingdom,2019,16+,109 min,Documentary
+s4214,Movie,Ye Re Ye Re Paisa 2,Hemant Dhome,"Sanjay Narvekar, Aniket Vishwasrao, Priyadarshan Jadhav, Mrinmayee Godbole, Anand Ingle, Prasad Oak, Mrinal Kulharni",India,2019,13+,134 min,"Drama, International"
+s4232,Movie,Sharknado 2: The Second One,Anthony C. Ferrante,"Ian Ziering, Vivica A. Fox, Mark McGrath, Kari Wuhrer, Tara Reid",United States,2014,13+,91 min,"Action, Horror"
+s4240,Movie,Next,Lee Tamahori,"Nicolas Cage, Julianne Moore, Jessica Biel, Thomas Kretschmann, Tory Kittles, Peter Falk, Michael Trucco, Jim Beaver, Jos Ziga, Enzo Cilenti",United States,2007,PG-13,96 min,"Action, Suspense"
+s4243,Movie,Little Secrets,Blair Treu,"Evan Rachel Wood, Michael Angarano, David Gallagher, Vivica Fox",United States,2002,PG,97 min,"Drama, Young Adult Audience"
+s4255,Movie,Double Dragon,James Yukich,"Scott Wolf, Mark Dacascos, Robert Patrick, Alyssa Milano, Kristina Wagner, Julia Nickson, Nils Allen Stewart, Vanna White, Andy Dick","United States, France, Denmark",1994,PG-13,96 min,"Action, Adventure, Comedy"
+s4259,Movie,Boyz 2,Vishal Devrukhkar,"Kishori Ambiye, Parth Bhalerao, Onkar Bhojane, Rohit Chavan, Sharvari Jamenis, Suvarna Kale, Soham Kalokhe, Yatin Karyekar",India,2018,18+,140 min,"Comedy, International"
+s4262,Movie,47 Meters Down: Uncaged (4K UHD),Johannes Roberts,"Sophie Nélisse, Nia Long, Corinee Foxx, Brianne Tju, Sistine Stallone, Davi Santos, Khylin Rhambo, Brec Bassinger, John Corbett","United Kingdom, United States",2019,PG-13,90 min,"Action, Adventure, Drama"
+s4266,Movie,Wounded by the wind,Juan Carlos Rubio,"Dani Muriel, Kiti Mánver",Spain,2021,13+,75 min,"Arthouse, Drama, LGBTQ"
+s4269,Movie,The Rape of Nanking,"Anne Pick, Bill Spahic","Olivia Cheng, Huang Shi Jia, Fang Jun Xiang, Pang Jin Feng, Jillian Rees-Brown",Canada,2007,13+,55 min,"Documentary, Special Interest"
+s4273,Movie,Reaching For The Moon,Bruno Barreto,"Miranda Otto, Glória Pires",Brazil,2014,16+,114 min,"LGBTQ, Romance"
+s4286,Movie,Historias lamentables,Javier Fesser,"Pol López, Fernando Sansegundo, Chani Martín, Laura Gómez-Lacueva, Alberto Castrillo-Ferrer",Spain,2020,13+,130 min,Comedy
+s4289,Movie,Garnet's Gold,Ed Perkins,Garnet Frost,United Kingdom,2019,13+,76 min,Documentary
+s4295,Movie,Biswa Kalyan Rath: Sushi,Siddharth Vasani,Biswa Kalyan Rath,India,2019,16+,60 min,Comedy
+s4301,Movie,World Trade Center,Oliver Stone,"Nicolas Cage, Maria Bello, Jay Hernandez, Jon Bernthal, Michael Peña, Maggie Gyllenhaal, Michael Shannon, Stephen Dorff",United States,2006,PG-13,129 min,"Drama, Suspense"
+s4302,Movie,Wonderstruck,Todd Haynes,"Julianne Moore, Oakes Fegley, Millicent Simmonds, Jaden Michael, Cory Michael Smith, Tom Noonan, Michelle Williams",United States,2017,PG,115 min,"Drama, Kids"
+s4305,Movie,We Were Children,Tim Wolochatiuk,"Rene Batson, Taya Ayotte Bourns, Alice Dano, Justin Ducharme",Canada,2012,13+,83 min,Drama
+s4307,Movie,The Pollinators,Peter Nelson,"Bret Adee, Jack Algiere, Jeff Anderson, Alan Ard, Dan Barber, Leigh-Kathryn Bonner, Zak Browning, Glenn Card, Steve CLarke, Lucas Criswell, William Criswell, James Frazier PhD, Maryann Frazier, Christina Grozinger PhD, Dave Hackenberg, Davey Hackenberg, Bob Harvey, Neil Hinish, Susan Kegley PhD, Jonathon Lundgren PhD, Bill McKibben, Jeffrey Pettis PhD, Samuel Ramsey PhD",United States,2020,13+,93 min,Documentary
+s4317,Movie,Never Grow Old,Ivan Kavanagh,"John Cusack, Emile Hirsch, Déborah François","Ireland, Belgium, France, Luxembourg, United Kingdom",2019,R,100 min,"Action, Adventure, Western"
+s4321,Movie,It's A Wonderful Life,Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell, Henry Travers, Beulah Bondi",United States,1946,PG,131 min,"Drama, Fantasy"
+s4344,Movie,Aeon Flux,Karyn Kusama,"Charlize Theron, Marton Csokas, Jonny Lee Miller, Sophie Okonedo, Pete Postlethwaite","United States, Germany, Brazil, Italy",2005,PG-13,93 min,"Action, Science Fiction"
+s4352,Movie,Alison,Uga Carlini,"Christia Visser, Alison Botha, Zak Hendrikz, Francois Maree, De Klerk Oelofse",South Africa,2017,16+,60 min,"Documentary, Special Interest"
+s4358,Movie,Trust Me,Andrew Kazamia,"Craig Ferguson, Shelley Long, Winter Ave Zoli, Cory Pendergast, Enn Reitel",United States,2007,18+,97 min,Comedy
+s4359,Movie,The Priest,Jofin T. Chacko,"Mammootty, Nikhila Vimal, Manju Warrier",India,2021,NR,145 min,"Horror, Suspense"
+s4363,Movie,Sultan,Ali Abbas Zafar,"Amit Sadh, Randeep Hooda, Salman Khan","United States, India",2016,13+,169 min,"Drama, International, Romance"
+s4374,Movie,Nocturne,Zu Quirke,"Sydney Sweeney, Madison Iseman, Jacques Colimon, Ivan Shaw",United States,2020,16+,90 min,Suspense
+s4384,Movie,"Jeff, Who Lives at Home","Jay Duplass, Mark Duplass","Jason Segel, Ed Helms, Judy Greer, Susan Sarandon, Rae Dawn Chong, Evan Ross",United States,2012,R,83 min,"Comedy, Drama"
+s4398,Movie,Beta,Indra Kumar,"Anil Kapoor, Madhuri Dixit, Aruna Irani, Anupam Kher, Totaram, Satyendra Kapoor, Bharti Achrekar",India,1992,13+,158 min,"Drama, Romance"
+s4410,Movie,Plato's Reality Machine,Myles Sorensen,"Trieste Kelly Dunn, Mackenzie Davis, Doug Roland, Carolina Bartczak, Ed Renninger, Heather Shisler, Nathan Spiteri",United States,2013,18+,79 min,Science Fiction
+s4438,Movie,Officer,Ram Gopal Varma,"Nagarjuna Akkineni, Myra Sareen",India,2018,13+,116 min,"Action, Drama, International"
+s4443,Movie,Jade,William Friedkin,"David Caruso, Linda Fiorentino, Chazz Palminteri, Richard Crenna, Kevin Tighe, Michael Biehn",United States,1995,R,95 min,"Drama, Suspense"
+s4452,Movie,"Cryptopia: Bitcoin, Blockchains, and the Future of the Internet","Torsten Hoffmann, Michael Watchulonis","Torsten Hoffman, Vitalik Buterin, Andreas M. Antonopoulos, Charlie Lee, Preethi Kasireddy, Laura Shin, Vinny Lingham, Samson Mow, Roger Ver","Australia, United States, Germany",2020,13+,87 min,Documentary
+s4458,Movie,Uncle Frank,Alan Ball,"Paul Bettany, Sophia Lillis, Peter Macdissi, Judy Greer, Steve Zahn, Lois Smith, Margo Martindale, Stephen Root",United States,2020,R,95 min,"Comedy, Drama, LGBTQ"
+s4470,Movie,Chemical Hearts,Richard Tanne,"Lili Reinhart, Austin Abrams",United States,2020,R,93 min,Drama
+s4474,Movie,7500,Patrick Vollrath,"Joseph Gordon-Levitt, Omid Memar, Carlo Kitzlinger, Aylin Tezel, Murathan Muslu, Paul Wollin, Aurélie Thépaut, Passar Hariky, Denis Schmidt, Max Schimmelpfennig, Anna Suk","Germany, Austria, United States",2020,R,93 min,"Drama, Suspense"
+s4481,Movie,Pataakha,Vishal Bhardwaj,"Sanya Malhotra, Radhika Madan, Sunil Grover, Vijay Raaz",India,2018,18+,131 min,"Comedy, Drama"
+s4497,Movie,Anu Menon: Wonder Menon,Naveen Kumar M.N.,Anu Menon,India,2019,16+,69 min,"Arts, Entertainment, and Culture"
+s4499,Movie,Raabta,Dinesh Vijan,"Kriti Sanon, Sushant Singh Rajput, Deepika Padukone, Rajkummar Rao, Jim Sarbh, Varun Sharma, Nidhi Subbaiah",India,2017,13+,144 min,"Drama, International, Romance"
+s4506,Movie,Saina,Amole Gupte,"Parineeti Chopra, Manav Kaul, Meghna Malik, Shubhrajyoti Barat",India,2021,ALL,134 min,"Drama, Sports"
+s4508,Movie,Nene Raju Nene Mantri,Teja,"Rana Daggubati, Kajal Aggarwal, Catherine Tresa",India,2017,13+,151 min,"Drama, International"
+s4558,Movie,Roberrt (4K UHD),Tarun Sudhir,"Vinod Prabhakar, Asha Bhat, Jagapathi Babu, Sreedhar Rao Chennamaneni, Amit Shivdas Nair, Sridhar Rao, Cockroach Sudhi, Darshan Thoogudeep",India,2021,NR,165 min,Action
+s4559,Movie,Roberrt,Tarun Sudhir,"Vinod Prabhakar, Asha Bhat, Jagapathi Babu, Sreedhar Rao Chennamaneni, Amit Shivdas Nair, Sridhar Rao, Cockroach Sudhi, Darshan Thoogudeep",India,2021,NR,165 min,Action
+s4578,Movie,Late Night,Nisha Ganatra,"Emma Thompson, Mindy Kaling, John Lithgow, Paul Walter Hauser, Reid Scott, Amy Ryan",United States,2019,R,102 min,"Comedy, Drama"
+s4594,Movie,Crown Heights,Matt Ruskin,"Ron Canada, Nestor Carbonell, Natalie Paul, Amari Cheatom, Lakeith Stanfield, Marsha Stephanie Blake, Zach Grenier, Bill Camp, Josh Pais, Yul Vazquez",United States,2017,R,100 min,Drama
+s4602,Movie,Available,Les Mahoney,"Les Mahoney, Jana Podlipna, Paul Dean, Atoy Wilson, Gerold Wunstel, Mattea D'Amore, Leslie Eckl, Petra Herz",United States,2016,13+,73 min,"Action, Drama, Suspense"
+s4610,Movie,Winter Warrior,Robbie Moffat,"James Watson, Victoria Pritchard, Ilaria D'Elia, Jon Paul Gates, Ian Stirling",United Kingdom,2003,16+,91 min,"Action, Adventure, Drama"
+s4613,Movie,Rohan Joshi: Wake N Bake,Angshuman Ghosh,Rohan Joshi,India,2019,16+,57 min,Comedy
+s4621,Movie,Adithya Varma,Gireesaaya,"Dhruv Vikram, Banita Sandhu, Priya Anand, Anbu",India,2019,18+,165 min,"Drama, International"
+s4624,Movie,Wajah Tum Ho,Vishal Pandya,"Sana Khaan, Sharman Joshi, Zarine Khan, Sherlyn Chopra, Rajneesh Duggal, Gurmeet Choudhary, Prarthana Behere",India,2016,18+,131 min,"International, Suspense"
+s4628,Movie,Teraa Surroor,Shawn Arranha,"Himesh Reshammiya, Farah Karimaee, Naseeruddin Shah, Shekhar Kapur, Shernaz Patel, Monica Dogra, Kabir Bedi, Suneel Dutt, Graham Molloy, Ann Marie O'Connor, Richard O'Leary, Warren Renwick, Degnan Geraghty, Maneesh Chandra Bhatt, Abhishek Duhan",India,2016,13+,100 min,"Action, Drama, Romance"
+s4630,Movie,Simran,Hansal Mehta,"Kangana Ranaut, Sohum Shah, Esha Tewari, Jason Louder, Aneesha Joshi, Mark Justice, Rupinder Nagra, Catherine Dyer, James Cole, Robin Dyke, Alexander Garganera, Timothy Ryan Hickernell, Manda Lee, Yajhayra Maria, Rusty Meyers, Robert Mitchel Owenby, Albert Roberts, Rich Robertson, Jeff Rose, Manesh k Singh",India,2017,13+,124 min,"Comedy, Drama"
+s4631,Movie,Sarbjit,Omung Kumar,"Randeep Hooda, Aishwarya Rai Bachchan, Richa Chadha, Darshan Kumar, Shiwani Saini, Ankita Shrivastav, Ankur Bhatia, Arbaaz Ali Khan, Ram Murti Sharma, Charanpreet Singh, Trishaan Singh",India,2016,13+,126 min,"Drama, International"
+s4634,Movie,Noor,Sunhil Sippy,"Sonakshi Sinha, Purab Kohli, Kanan Gill, Shibani Dandekar, Gareth Lawrence, Yulian Shchukin",India,2017,13+,116 min,"Action, Comedy, Drama"
+s4637,Movie,Junooniyat,Vivek Agnihotri,"Pulkit Samrat, Yami Gautam, Hrishitaa Bhatt, Aneesha Joshi, Taran Bajaj, Manoj Bakshi, Madhuri D. Bandiwedkar, Manann Dania, Gulshan Devaiah, Jaquiline Garewal, Gurpreet Kaur, Ravi Khemu, Sanjay Mehandiratta, Anoop Singh, Herry Tangiri, Khushboo Upadhyay",India,2016,ALL,122 min,"Drama, International, Romance"
+s4639,Movie,Hindi Medium,Saket Chaudhary,"Irrfan Khan, Saba Qamar, Neha Dhupia, Amrita Singh, Deepak Dobriyal, Sanjana Sanghi, Rajesh Sharma, Tillotama Shome, Vijay Kumar Dogra, Sumit Gulati, Swati Das, Delzad Hiwale, Taran Bajaj, Angad Dev Dogra, Sanjay Suri, Rajiv Gupta, Charu Shankar, Mallika Dua, Fasih Safwi, Jaspal Sharma",India,2017,ALL,132 min,"Comedy, Drama, International"
+s4640,Movie,Chef,Raja Menon,"Saif Ali Khan, Padmapriya, Dhanish Karthik, Ram Gopal Bajaj, Riju Bajaj, Pawan Chopra, Sobhita Dhulipala, Raghu Dixit, Svar Kamble, Michael Kelberg, Meghan Lane, Lynn Marocola, Jack Ricardo Miller, Shayan Munshi, Russell Peters, Dinesh Prabhakar, Chandan Roy Sanyal, Neha Saxena, Milind Soman, Tanya Thompson",India,2017,13+,131 min,"Comedy, Drama, International"
+s4641,Movie,Bhoomi,Omung Kumar,"Sanjay Dutt, Aditi Rao Hydari, Sharad Kelkar, Shekhar Suman, Rahul Verma Rajput, Sidhant Gupta, Riddhi Sen, Puru Chibber, Sunny Leone",India,2017,13+,133 min,"Action, Drama, International"
+s4648,Movie,Mumbai Saga,Sanjay Gupta,"John Abraham, Emraan Hashmi, Mahesh Manjrekar, Suniel Shetty, Kajal Agarwal, Pratiek Babbar, Gulshan Grover, Amole Gupte, Rohit Bose Roy",India,2021,18+,126 min,"Action, Drama"
+s4680,Movie,Ameluk - based on a story which could be true,Mimmo Mancini,"Rosanna Banfi, Paolo Sassanelli, Mehdi Mahdloo Torkaman, Mimmo Mancini, Claudia Lerro, Cosimo Cinieri, Francesca Giaccari, Dante Marmone, Roberto Nobile, Luigi Angiuli, Nadia Kibout, Pascal Zullino, Hedy Krissane, Miloud Mourad Benamara, Michele De Virgilio, Massimo Bagnasco",Italy,2015,13+,98 min,Comedy
+s4684,Movie,The Transporter Refueled,Camille Delamarre,"Ed Skrein, Ray Stevenson, Loan Chabanol, Gabriella Wright","France, China, Belgium, Monaco",2015,PG-13,96 min,Action
+s4693,Movie,Manchester by the Sea,Kenneth Lonergan,"Casey Affleck, Michelle Williams, Kyle Chandler, Lucas Hedges, Gretchen Mol, Matthew Broderick",United States,2016,R,137 min,Drama
+s4706,Movie,Zaki Chan,Wael Ihsan,"Ahmed Helmy, Yasmin Abdulaziz",Egypt,2005,7+,109 min,"Comedy, Romance"
+s4719,Movie,Rock On,Abhishek Kapoor,"Arjun Rampal, Farhan Akhtar, Luke Kenny, Purab Kohli, Prachi Desai, Shahana Goswami, Koel Purie, Nicolette Bird",India,2008,ALL,145 min,"Arts, Entertainment, and Culture, Drama, International"
+s4723,Movie,Mike Case in: The Big Kiss Off,Justin Baird,"Les Mahoney, Debra Mayer, Devai Pearce, Atoy Wilson, Dale Shane, Erica Juliet (Ocampo), Suniil Sadarangani, Scott Ganyo, William Mitchell",United States,2013,18+,74 min,"Comedy, Suspense"
+s4727,Movie,Karwaan,Akarsh Khurana,"Irrfan Khan, Mithila Palkar, Dulquer Salmaan, Kriti Kharbanda",India,2018,13+,114 min,"Comedy, Drama, International"
+s4734,Movie,Confessions of an Action Star,Brad Martin,"Lin Shaye, Daniel Bernhardt, Michael T. Weiss","United States, Austria",2009,13+,87 min,"Action, Comedy, Documentary"
+s4749,Movie,The Manchurian Candidate (2004),Jonathan Demme,"Denzel Washington, Meryl Streep, Liev Schreiber, Jon Voight, Kimberly Elise, Jeffrey Wright, Ted Levine, Bruno Ganz, Simon McBurney, Vera Farmiga",United States,2004,R,130 min,"Drama, Science Fiction"
+s4813,Movie,Brother Nature,"Matt Villines, Oz Rodriguez","Taran Killam, Gillian Jacobs, Bobby Moynihan, Sarah Burns, Bill Pullman, Rita Wilson",United States,2016,R,97 min,"Adventure, Comedy"
+s4822,Movie,The Double,Michael Brandt,"Richard Gere, Topher Grace, Martin Sheen, Stephen Moyer, Odette Yustman, Stana Katic, Tamer Hassan","United States, United Arab Emirates",2011,PG-13,98 min,"Action, Suspense"
+s4842,Movie,Guava Island,Hiro Murai,"Donald Glover, Rihanna",United States,2019,13+,56 min,"Arthouse, Drama, Suspense"
+s4863,Movie,Voyage to the Planet of Prehistoric Women,Peter Bogdanovich,"Mamie Van Doren, Mary Marr, Paige Lee, Gennadi Vernov, Margot Hartman, Peter Bogdanovich",United States,1968,13+,80 min,Science Fiction
+s4914,Movie,Goblin,Chris Lee,"Ashley Rene, Joe Cummings, Houston Towe, Weston Banning, David Mason, Patrick Giglio, Phoenix Hernandez, Babe McGuire, Rod Randolph, Wayne Lundy",United States,2020,18+,71 min,Horror
+s4923,Movie,At Granny's House,Les Mahoney,"Rachel Alig, Bill Oberst Jr., Les Mahoney, Glenda Morgan Brown",United States,2015,18+,87 min,"Horror, Suspense"
+s4928,Movie,Ta Ra Rum Pum,Siddharth Anand,"Rani Mukerji, Saif Ali Khan, Shruti Seth, Victor Banerjee, Dolly Bindra, Jaaved Jaaferi, Angelina Idnani, Ali Haji","United States, India",2007,ALL,156 min,"Drama, International, Kids"
+s4996,Movie,The Neon Demon,Nicolas Winding Refn,"Elle Fanning, Jena Malone, Abbey Lee, Bella Heathcote, Karl Glusman, Keanu Reeves","United States, Belgium, Denmark, France",2016,R,117 min,"Horror, Suspense"
+s5004,Movie,Without a Paddle: Nature's Calling,Ellory Elkayem,"Oliver James, Kristopher Turner, Amber McDonald, Rik Young, Jerry Rice, Madison Riley",United States,2009,PG-13,91 min,"Action, Adventure, Comedy"
+s5014,Movie,Nizhal,Appu N. Bhattathiri,"Kunchacko Boban, Nayanthara, Divya Prabha",India,2021,ALL,124 min,Suspense
+s5025,Movie,Good Newwz,Raj Mehta,"Akshay Kumar, Kareena Kapoor Khan, Diljit Dosanjh, Kiara Advani",India,2019,13+,131 min,"Comedy, Drama, International"
+s5110,Movie,Love me tender,Klaudia Reynicke,"Barbara Giordano, Antonio Bannò",Switzerland,2019,13+,82 min,"Comedy, Drama"
+s5113,Movie,Karnan,Mari Selvaraj,"Dhanush, Lal, Rajisha Vijayan, Yogibabu Nataraja Subramanian",India,2021,13+,157 min,"Action, Drama"
+s5137,Movie,The Farewell,Lulu Wang,"Awkwafina, Shuzhen Zhao, X Mayo","United States, China",2019,13+,100 min,"Arts, Entertainment, and Culture, Comedy, Drama"
+s5144,Movie,Street Dancer 3D,Remo D'Souza,"Varun Dhawan, Shraddha Kapoor, Prabhu Deva, Nora Fatehi","United Kingdom, India",2020,13+,141 min,"Drama, International"
+s5152,Movie,I'm Your Woman,Julia Hart,"Rachel Brosnahan, Marsha Stephanie Blake, Arinzé Kene",United States,2020,R,120 min,Drama
+s5173,Movie,Saathiya,Shaad Ali,"Rani Mukerji, Tanuja, Satish Shah, Vivek Oberoi, Sandhya Mridul, Swaroop Sampat, Sharat Saxena, Tinnu Anand",India,2002,ALL,138 min,"Drama, International, Romance"
+s5183,Movie,Leave No Trace,Debra Granik,"Ben Foster, Thomasin Harcourt McKenzie, Jeff Kober, Dale Dickey","United States, Canada",2018,PG,109 min,Drama
+s5223,Movie,Sandeep Aur Pinky Faraar,Dibakar Banerjee,"Parineeti Chopra, Arjun Kapoor, Neena Gupta, Raghubir Yadav, Jaideep Ahlawat",India,2021,13+,123 min,"Drama, Romance, Suspense"
+s5224,Movie,Once Upon a Time in London,Simon Rumley,"Terry Stone, Leo Gregory, Jamie Foreman",United Kingdom,2019,NR,111 min,"Action, Drama, Suspense"
+s5227,Movie,Major Ajay Krishna,Anil Ravipudi,"Mahesh Babu, Rashmika Mandanna, Vijayashanti, Prakash Raj, Rajendra Prasad",India,2020,NR,171 min,"Action, Comedy, Drama"
+s5230,Movie,Krishnan,Anil Ravipudi,"Mahesh Babu, Rashmika Mandanna, Vijayashanti, Prakash Raj, Rajendra Prasad",India,2020,13+,171 min,"Action, Comedy, Drama"
+s5236,Movie,Antardwand,Sushil Rajpal,"Swati Sen, Akhilendra Mishra, Himanshi, Raj Singh Chaudhary, Vinay Pathak",India,2010,13+,104 min,"Drama, International"
+s5238,Movie,Yeh Dillagi,Naresh Malhotra,"Kajol, Akshay Kumar, Saif Ali Khan, Deven Verma, Achyut Potdar, Reema Lagoo, Saeed Jaffrey",India,1994,ALL,154 min,"Drama, International, Romance"
+s5240,Movie,Tubelight,Kabir Khan,"Salman Khan, Sohail Khan, Om Puri, Mohammed Zeeshan Ayyub, Yashpal Sharma, Zhu Zhu, Matin Rey Tangu, Brijendra Kala, Isha Talwar, Jason D'Souza, Matt Kramer, Neeraj Khetarpal, Kapil Sharma","India, United States, United Kingdom, Canada, China",2017,ALL,130 min,"Drama, International"
+s5241,Movie,Theri,Atlee Kumar,"Vijay, Samantha Ruth Prabhu, Amy Jackson, Baby Nainika, Prabhu, Raadhika Sarathkumar, Rajendran, J.Mahendran",India,2016,ALL,150 min,"Action, Drama, International"
+s5244,Movie,Tashan,Vijay Krishna Acharya,"Akshay Kumar, Anil Kapoor, Kareena Kapoor, Saif Ali Khan, Yashpal Sharma, Sanjay Mishra, Manoj Pahwa",India,2008,16+,147 min,"Action, International"
+s5245,Movie,Sketch,Vijay Chandar,"Vikram, Tamannaah, Soori, Baburaj, R.K. Suresh",India,2018,13+,131 min,"Action, Drama, International"
+s5246,Movie,Silsila,Yash Chopra,"Shashi Kapoor, Amitabh Bachchan, Jaya Bhaduri, Rekha, Sushma Seth, Jagdish Raj, Kulbhushan Kharbanda, Deven Verma, Sanjeev Kumar, Pratima Puri, Ashok Verma, Manek, Kimti Anand, Nirupama Verma, Damyanti Puri, Gauri Shanker, Raj Babbar, Shyam Arora, Ranvir Raj, Vikas Anand, Sharmila Roy Chowdhry, Ravi Dubey, Sudha Chopra",India,1981,7+,180 min,"Drama, International, Romance"
+s5248,Movie,SI 3,Hari,"Suriya, Anushka Shetty, Shruthi Hasan, Soori, Anoop Singh Thakur, Neetu Chandra, Janaki Ganesh, Olamilekan Akanbi Jason, Krish",India,2017,ALL,152 min,"Action, International"
+s5252,Movie,Raja The Great,Anil Ravipudi,"Ravi Teja, Mehreen Pirzada, Vivan Bhatena, Prakash Raj, Srinivasa Reddy, Raadhika Sarathkumar, Sampath Raj, Rajendra Prasad, Posani Krishna Murali, Raashi Khanna",India,2017,13+,150 min,Drama
+s5253,Movie,Rab Ne Bana Di Jodi,Aditya Chopra,"Shah Rukh Khan, Anushka Sharma, Rani Mukerji, Manmeet Singh, Kajol, Bipasha Basu, Lara Dutta, Preity Zinta, Vinay Pathak",India,2008,ALL,164 min,"Drama, International, Romance"
+s5254,Movie,Raaz Reboot,Vikram Bhatt,"Emraan Hashmi, Gaurav Arora, Kriti Kharbanda",India,2016,NR,128 min,"Horror, International"
+s5256,Movie,Ponmagal Vandhal,JJ Fredrick,"Jyotika, Bhagyaraj, Prathap Potham, Thiagarajan, Parthiban, Pandiarajan, Subbu Panchu",India,2020,18+,123 min,"Drama, International"
+s5259,Movie,OK Jaanu,Shaad Ali,"Aditya Roy Kapur, Shraddha Kapoor, Naseeruddin Shah, Leela Samson",India,2017,13+,135 min,"International, Romance"
+s5261,Movie,Noorie,Manmohan Krishna,"Poonam Dhillon, Farooq Shaikh, Madan Puri, Iftekhar",India,1979,16+,120 min,"International, Romance"
+s5264,Movie,Mujhse Fraaandship Karoge,Nupur Asthana,"Saqib Saleem, Saba Azad, Nishant Dahiya, Tara D'Souza, Prabal Panjabi, Chitrak Bandyopadhyay, Manasi Rachh, Suparna Marwah, Zuha Sharma, Kavi Shastri, Keshav Sunder, Mita Vasisht",India,2011,13+,105 min,"International, Romance"
+s5265,Movie,Meri Pyaari Bindu,Akshay Roy,"Ayushmann Khurrana, Parineeti Chopra, Malvika Sitlani, Chandrachoor Rai, Aparajita Adhya, Abish Mathew",India,2017,13+,117 min,"Comedy, Drama, International"
+s5266,Movie,Mere Brother Ki Dulhan,Ali Abbas Zafar,"Imran Khan, Katrina Kaif, Ali Zafar, Tara D'Souza, Parikshat Sahni, Suparna Marwah",India,2011,13+,139 min,"Comedy, International, Romance"
+s5267,Movie,Mashaal,Yash Chopra,"Anil Kapoor, Waheeda Rehman, Dilip Kumar, Rati Agnihotri, Saeed Jaffrey, Amrish Puri",India,1984,ALL,169 min,"Drama, International"
+s5269,Movie,Mardaani,Pradeep Sarkar,"Rani Mukerji, Sanjay Taneja, Priyanka Sharma, Gautam Babbar, Ashish Warang, Tahir Raj Bhasin",India,2014,18+,113 min,"Drama, International, Suspense"
+s5270,Movie,Maanagaram,Lokesh Kanagaraj,"Sundeep Kishan, Munishkanth, Sri, Regina Cassandra",India,2017,13+,136 min,"Action, International"
+s5272,Movie,Lamhe,Yash Chopra,"Anil Kapoor, Sridevi, Anupam Kher, Waheeda Rehman",India,1991,ALL,188 min,"Drama, International, Romance"
+s5274,Movie,Kal Ho Naa Ho,Nikkhil Advani,"Shah Rukh Khan, Preity Zinta, Saif Ali Khan, Jaya Bhaduri, Sushma Seth, Reema Lagoo, Lilette Dubey, Delnaz Paul, Sonali Bendre, Rani Mukerji, Sanjay Kapoor, Sulabha Arya, Athit Naik, Jhanak Shukla",India,2003,ALL,187 min,"Comedy, Drama, International"
+s5275,Movie,Kabul Express,Kabir Khan,"John Abraham, Arshad Warsi, Salman Shahid, Hanif Hum Ghum, Linda Arsenio",India,2006,13+,105 min,"Action, International"
+s5277,Movie,Kabali,Pa. Ranjith,"Rajinikanth, Winston Chao, Radhika Apte, Dhansika, Dinesh Ravi, Kishore, Kalaiyarasan, John Vijay, Riythvika, Rosyam, Lingesh Vj, Mime Gopi, Nassar, R. Amarendran, Uday Mahesh, Nandakumar, Gajaraj, Charles Vinoth, Sampath Ram, Sangili Murugan",India,2016,ALL,143 min,"Action, Drama, International"
+s5278,Movie,Kaashmora,Gokul,"Karthi, Nayanthara, Sri Divya, Vivek, Jangiri Madhumitha",India,2016,13+,162 min,"Horror, International, Science Fiction"
+s5279,Movie,Joker,Raju Murugan,"Guru Somasundaram, Ramya Pandiyan, Gayathri, Ramasamy, Bava Chelladurai, Bala Murugan",India,2016,ALL,129 min,"Comedy, Drama, International"
+s5280,Movie,Jab Tak Hai Jaan,Yash Chopra,"Katrina Kaif, Rishi Kapoor, Shahrukh Khan, Anushka Sharma",India,2012,13+,176 min,"Drama, International, Romance"
+s5283,Movie,Halal Love Story,Zakariya,"Indrajith Sukumaran, Joju George, Sharafudheen, Grace Antony, Soubin Shahir, Parvathy Thiruvothu",India,2020,13+,116 min,"Comedy, Drama"
+s5286,Movie,George Reddy,B. Jeevan Reddy,"Sandeep Madhav, Muskaan Khubchandani, Devika Daftardar, Sanjay Reddy, Manoj Nandam, Satya Dev, Shreenivas Pokale",India,2019,13+,150 min,"Drama, International"
+s5288,Movie,Fanaa,Kunal Kohli,"Aamir Khan, Kajol, Rishi Kapoor, Lara Dutta, Shiney Ahuja, Satish Shah, Tabu, Kirron Kher, Sharat Saxena, Ahmad Khan, Lilette Dubey, Shruti Seth",India,2006,13+,168 min,Romance
+s5289,Movie,Fan,Maneesh Sharma,"Shah Rukh Khan, Sayani Gupta, Shriya Pilgaonkar, Waluscha de Sousa, Deepika Amin, Yogendra Tiku",India,2016,13+,138 min,"Drama, International, Suspense"
+s5291,Movie,Dilwale Dulhania Le Jayenge,Aditya Chopra,"Shah Rukh Khan, Kajol, Amrish Puri, Farida Jalal, Anupam Kher, Satish Shah, Achala Sachdev, Himani Shivpuri",India,1995,7+,190 min,Romance
+s5292,Movie,Dil Bole Hadippa,Anurag Singh,"Shahid Kapoor, Rani Mukerji, Anupam Kher, Dalip Tahil, Rakhi Sawant, Sherlyn Chopra, Shri Vallabh Vyas, Vrajesh Hirjee, Poonam Dhillon, Shonali Nagrani, Karan Veer, Bobby Bedii, Vickeey Ahhuja, Sherry Rekhi, Akhilesh Sharma, Vimarsh Roshan, Kunal Satyen, Feroz Khan, Rashid Mallick, Jaffar Baig, Prasad Patil, Imran Khan, Saud Ansari, Mukesh Singh, Nasir Khan, Vikas Choudhry, Niranjan Sawant, Vineet Kapoor, Amar Singh",India,2009,13+,146 min,"Comedy, Drama, International"
+s5294,Movie,Dhoom:2,Sanjay Gadhvi,"Abhishek Bachchan, Uday Chopra, Aishwarya Rai Bachchan, Bipasha Basu, Rimi Sen, Hrithik Roshan","India, South Africa, Brazil",2006,13+,152 min,Action
+s5296,Movie,Darr,Yash Chopra,"Shah Rukh Khan, Juhi Chawla, Sunny Deol",India,1993,13+,177 min,"Drama, International, Suspense"
+s5297,Movie,Daag,Yash Chopra,"Rajesh Khanna, Sharmila Tagore, Rakhee Gulzar, Prem Chopra, Madan Puri, Iftekhar, Manmohan Krishna, Kader Khan, Achala Sachdev, A.K. Hangal",India,1973,7+,146 min,"Drama, International"
+s5298,Movie,Chandni,Yash Chopra,"Vinod Khanna, Rishi Kapoor, Sridevi, Waheeda Rehman, Sushma Seth, Beena Banerjee",India,1989,ALL,180 min,"Drama, International, Romance"
+s5300,Movie,Begum Jaan,Srijit Mukherji,"Vidya Balan, Ila Arun, Naseeruddin Shah, Rajit Kapoor, Ashish Vidyarthi, Vivek Mushran, Chunky Pandey, Gauhar Khan, Pallavi Sharda",India,2017,18+,128 min,"Action, Drama, International"
+s5301,Movie,Befikre,Aditya Chopra,"Ranveer Singh, Vaani Kapoor, Armaan Ralhan, Julie Ordon, Ayesha Raza, Akarsh Khurana, Aru Verma",India,2016,16+,130 min,"Comedy, Drama, International"
+s5302,Movie,Band Baaja Baaraat,Maneesh Sharma,"Ranveer Singh, Anushka Sharma, Manish Chaudhary",India,2010,ALL,139 min,Romance
+s5303,Movie,Badrinath Ki Dulhania,Shashank Khaitan,"Varun Dhawan, Alia Bhatt, Sahil Vaid, Rituraj Singh, Gauhar Khan, Shweta Basu",India,2017,13+,139 min,"Comedy, International, Romance"
+s5304,Movie,Bachna Ae Haseeno,Siddharth Anand,"Ranbir Kapoor, Bipasha Basu, Minissha Lamba, Deepika Padukone, Puneet Issar, Kunal Kapoor",India,2008,13+,152 min,Romance
+s5306,Movie,Ae Dil Hai Mushkil,Karan Johar,"Aishwarya Rai Bachchan, Ranbir Kapoor, Anushka Sharma, Fawad Khan, Shah Rukh Khan, Alia Bhatt",India,2016,13+,156 min,"Drama, International, Romance"
+s5307,Movie,Adhe Kangal,Rohin Venkatesan,"Kalaiyarasan, Janani Iyer, Sshivada",India,2017,ALL,119 min,"International, Romance"
+s5308,Movie,Aamhi Doghi,Pratima Joshi,"Priya Bapat, Mukta Barve, Krutik Mazire, Bhushan Pradhan",India,2018,ALL,138 min,"Drama, International"
+s5309,Movie,Aaja Nachle,Anil Mehta,"Madhuri Dixit, Darshan Jariwala, Raghuvir Yadav, Divya Dutta, Irrfan Khan, Kunal Kapoor, Konkona Sen Sharma, Ranvir Shorey, Vinay Pathak",India,2007,ALL,143 min,Drama
+s5310,Movie,Aaina,Deepak Sareen,"Jackie Shroff, Saeed Jaffrey, Deepak Tijori, Maya Alagh, Dina Pathak, Juhi Chawla, Amrita Singh",India,1993,16+,150 min,"Drama, International, Romance"
+s5317,Movie,The Perfect Score,Brian Robbins,"Erika Christensen, Chris Evans, Bryan Greenberg, Scarlett Johansson, Darius Miles, Leonardo Nam, Matthew Lillard, Tyra Ferrell","United States, Germany",2004,PG-13,93 min,"Action, Comedy, Drama"
+s5323,Movie,Sharknado,Anthony C. Ferrante,"Tara Reid, Ian Ziering, John Heard, Cassie Scerbo, Jason Simmons",United States,2013,13+,87 min,"Action, Comedy, Horror"
+s5331,Movie,Knives Out (4K UHD),Rian Johnson,"Ana De Armas, Toni Collette, Christopher Plummer, Don Johnson, Michael Shannon, Jaeden Martell, Riki Lindhome, Chris Evans, Jamie Lee Curtis, Lakeith Stanfield, Daniel Craig, Katherine Langford",United States,2019,PG-13,130 min,Comedy
+s5361,Movie,Bokya Satbande,Raj Pendurkar,"Dilip Prabhavalkar, Aryan Narvekar, Kaluram Dhobale, Alok Rajwade",India,2009,ALL,126 min,Kids
+s5372,Movie,Morti's Law,Marcel Wohlfahrt,"Michael Marwitz, Patrick Loose, Stefan Müller-Doriat, Toni Cyran, Nicolas Szent, Carmen Jahrstorfer",Germany,2018,13+,20 min,"Comedy, Drama"
+s5427,Movie,Ek Mini Katha,Karthik Rapolu,"Santosh Shoban, Kavya Thapar, Shraddha Das, Brahmaji, Sudharshan, Sapthagiri, Posani Krishna Murali",India,2021,18+,134 min,"Comedy, Drama"
+s5431,Movie,The Tracker,Rolf de Heer,David Gulpilil,Australia,2002,13+,94 min,"Arthouse, Drama"
+s5444,Movie,Dhoom:3,Vijay Krishna Acharya,"Abhishek Bachchan, Katrina Kaif, Jackie Shroff, Tabrett Bethell, Uday Chopra, Andrew Bicknell, Kim DeJesus, Aamir Khan","India, United States",2013,13+,171 min,"Action, International"
+s5506,Movie,Ladies vs Ricky Bahl,Maneesh Sharma,"Ranveer Singh, Anushka Sharma, Parineeti Chopra, Aditi Sharma",India,2011,13+,140 min,"Comedy, International, Romance"
+s5521,Movie,Bewakoofiyaan,Nupur Asthana,"Rishi Kapoor, Ayushmann Khurrana, Sonam Kapoor, Swedha Singh, Deepika Amin",India,2014,13+,118 min,"Comedy, Drama, International"
+s5555,Movie,Twilight,Robert Benton,"Paul Newman, Susan Sarandon, Gene Hackman, James Garner, Stockard Channing, Reese Witherspoon, Giancarlo Esposito, Liev Schreiber, Margo Martindale, John Spencer",United States,1998,R,94 min,"Drama, Suspense"
+s5561,Movie,Split Second,Tony Maylam,"Rutger Hauer, Kim Catrall, Michael J. Pollard, Alistair Duncan, Alun Armstrong, Pete Postlethwaite",United Kingdom,1992,R,91 min,"Horror, Science Fiction"
+s5571,Movie,Little White Lie,"Lacey Schwartz, James Adolphus","Lacey Schwartz, Peggy Schwartz, Robert Schwartz",United States,2015,13+,66 min,Documentary
+s5580,Movie,Human experiments,Gregory Goodell,"Linda Haynes, Geoffrey Lewis, Ellen Travolta, Lurene Tuttle, Mercedes Shirley",United States,1979,18+,85 min,"Horror, Suspense"
+s5582,Movie,Heartburn,Mike Nichols,"Meryl Streep, Natasha Lyonne, Jack Nicholson, Kevin Spacey, Jeff Daniels, Stockard Channing, Catherine O'Hara, Richard Masur",United States,1986,R,109 min,"Comedy, Romance"
+s5596,Movie,Dante's Inferno: an Animated Epic,Victor Cook,"Mark Hamill, Victoria Tennant, Vanessa Branch, Graham McTavish","United States, Japan, Singapore, South Korea",2010,R,88 min,"Action, Adventure, Animation"
+s5647,Movie,The Lie,Veena Sud,"Joey King, Peter Sarsgaard, Mireille Enos",United States,2020,16+,95 min,"Drama, Horror, Suspense"
+s5648,Movie,Sylvie's Love,Eugene Ashe,"Tessa Thompson, Nnamdi Asomugha, Eva Longoria, Aja Naomi King",United States,2020,13+,116 min,"Drama, Romance"
+s5652,Movie,One Night in Miami...,Regina King,"Kingsley Ben-Adir,  Eli Goree,  Aldis Hodge,  Leslie Odom Jr",United States,2021,R,114 min,Drama
+s5655,Movie,Love Games,Vikram Bhatt,"Patralekhaa, Tara-Alisha Berry, Gaurav Arora, Hiten Tejwani, Rukhsar Rehman, Dinesh Chaturvedi, Vishnu Sharma, Rinki Singhvi, Anant Kumar, Umar Sharif, Alisha Farrer, B.K. Tiwari, Paras Thakral, Ajay Kumar Singh, Soni Jha, Bhushan, Ajay Sharma",India,2016,16+,109 min,"International, Suspense"
+s5656,Movie,Knives Out,Rian Johnson,"Ana De Armas, Toni Collette, Christopher Plummer, Don Johnson, Michael Shannon, Jaeden Martell, Riki Lindhome, Chris Evans, Jamie Lee Curtis, Lakeith Stanfield, Daniel Craig, Katherine Langford",United States,2019,PG-13,130 min,Comedy
+s5659,Movie,I See You,Adam Randall,"Helen Hunt, Jon Tenney, Owen Teague, Libe Barer, Greg Alan Williams, Erika Alexander, Allison King, Judah Lewis",United States,2019,R,98 min,"Drama, Horror, Suspense"
+s5663,Movie,Brittany Runs A Marathon,Paul Downs Colaizzo,"Jillian Bell, Michaela Watkins, Utkarsh Ambudkar, Lil Rel Howery, Micah Stock","United States, Canada",2019,R,104 min,"Comedy, Drama, Romance"
+s5664,Movie,Borat Subsequent Moviefilm,Jason Woliner,"Sacha Baron Cohen, Maria Bakalova","United Kingdom, United States",2020,R,96 min,Comedy
+s5665,Movie,Black Box,"Emmanuel Osei-Kuffour,  Jr","Mamoudou Athie, Phylicia Rashad, Amanda Christine, Tosin Morohunfola",United States,2020,16+,101 min,"Horror, Science Fiction, Suspense"
+s5666,Movie,Beautiful Boy,Felix van Groeningen,"Steve Carrell, Timothee Chalamet, Maura Tierney, and Amy Ryan",United States,2018,R,120 min,Drama
+s5673,Movie,47 Meters Down: Uncaged,Johannes Roberts,"Sophie Nélisse, Nia Long, Corinee Foxx, Brianne Tju, Sistine Stallone, Davi Santos, Khylin Rhambo, Brec Bassinger, John Corbett","United Kingdom, United States",2019,PG-13,90 min,"Action, Adventure, Drama"
+s5705,Movie,Koi Jaane Na,Amin Hajee,"Kunal Kapoor, Amyra Dastur, Elli Avram, Aamir Khan",India,2021,13+,138 min,Suspense
+s5706,Movie,Kabullywood,Louis Meunier,"Roya Heydari, Farid Joya, Ghulam Reza Rajabi, Omid Rawendah, Mohd Qais Shaghasy","Afghanistan, France",2017,13+,85 min,Drama
+s5722,Movie,Evil Eye,"Elan Dassani, Rajeev Dassani","Sunita Mani, Omar Maskati, Sarita Choudhury, Bernard White",United States,2020,16+,89 min,"Drama, Horror"
+s5724,Movie,Devil's Island,"Sean King, Taylor King","Elle Alexander, Cliff Yates, Kristjan Sokoli, Pete Berwick",United States,2021,13+,72 min,"Horror, Suspense"
+s5773,Movie,The Map of Tiny Perfect Things,Ian Samuels,"KATHRYN NEWTON, KYLE ALLEN, AL MADRIGAL, JERMAINE HARRIS, ANNA MIKAMI, JOSH HAMILTON, CLEO FRASER, JORJA FOX",United States,2021,PG-13,99 min,"Comedy, Romance, Young Adult Audience"
+s5785,Movie,Sound of Metal,Darius Marder,"Riz Ahmed, Olivia Cooke, Paul Raci, Lauren Ridloff, Mathieu Amalric",United States,2020,R,121 min,Drama
+s5813,Movie,Jungle,Greg McLean,"Daniel Radcliffe, Thomas Kretschmann, Joel Jackson, Yasmin Kassim","Australia, Colombia, United Kingdom",2017,R,116 min,Action
+s5820,Movie,Duniyadari,Sanjay Jadhav,"Swapnil Joshi, Sai Tamhankar, Ankush Chaudhari, Urmilla Kanetkar, Jitendra Joshi, Sushant Shellar, Richa Pariyalli, Sandeep Kulkarni, Anand Abhyankar, Nagesh Bhonsle, Shrirang Deshmukh, Ajinkya Joshi, Varsha Usgaonkar, Rajesh Bhosle",India,2013,13+,146 min,Romance
+s5831,Movie,Aashiqui,Mahesh Bhatt,"Rahul Roy, Anu Aggarwal, Avtar Gill, Tom Alter, Reema Lagoo, Homi Wadia, Mushtaq Khan, Javed Khan, Deepak Tijori, Anang Desai, Veerendra Saxena, Sunil Rege, Deepa Mehta",India,1990,ALL,145 min,"Drama, International, Romance"
+s5849,Movie,New York,Kabir Khan,"John Abraham, Katrina Kaif, Neil Nitin Mukesh, Irrfan Khan, Nawazuddin Siddiqui, Ali Quli Mirza, Rizwan A. Alvi, Samrat Chakrabarti, Brian Dawson, Andrew Flihan, Obaid Kadwani, Dustin Kerns, Ginger Kroll, Rodger Parsons, Cody Ross Pitts, Justin Stern, Aidan Wagner, David Winning, Damon Zarro","India, United States",2009,13+,151 min,"International, Suspense"
+s5865,Movie,Be Dune Saade Chaar,Girish Mohite,"Mohan Joshi, Sai Tamhankar, Sanjay Narvekar, Atul Parchure, Vandana Gupte, Mugdha Shah, Sushant Shelar, Resham Tipnis, Satish Phulekar, Uday Sabnis, Sneha Wagh",India,2009,ALL,132 min,Comedy
+s5870,Movie,Aalas Motaapa Ghabraahat,Omar Iyer,Karunesh Talwar,India,2021,16+,52 min,Comedy
+s5873,Movie,Tula Shikwin Changlach Dhada,Girish Mohite,"Makarand Anaspure, Sanjay Narvekar, Rujuta Deshmukh, Kadambari Kadam, Mohan Joshi, Uday Sabnis, Jaywant Wadkar, Saurabh Parakhe, Vikas Samudre",India,2007,ALL,152 min,Comedy
+s5901,Movie,Ungli,Renzil D'Silva,"Emraan Hashmi, Kangana Ranaut, Sanjay Dutt, Randeep Hooda, Angad Bedi, Kader Khan",India,2014,13+,114 min,"Comedy, Drama, Suspense"
+s5919,Movie,Sharing the Secret,Katt Shea,"Mare Winningham, Alison Lohman, Diane Ladd, Mary Crosby, Lawrence Monoson, Camryn Grimes, Tim Matheson",United States,2000,16+,90 min,"Drama, Young Adult Audience"
+s5920,Movie,Shaandaar,Vikas Bahl,"Shahid Kapoor, Alia Bhatt, Pankaj Kapur, Sanjay Kapoor, Niki Aneja Walia, Sanah Kapoor, Sushma Seth, Karan Johar, Vikas Verma, Shibani Dandekar, Anjana Sukhani, Tessa Vellara, Teena Vellara",India,2015,13+,143 min,"Comedy, Drama, Romance"
+s5933,Movie,LOL,Lisa Azuelos,"Miley Cyrus, Demi Moore, Ashley Greene, Thomas Jane, Jay Hernandez, Marlo Thomas, Gina Gershon",United States,2012,PG-13,97 min,"Comedy, Drama"
+s5935,Movie,Kuch Kuch Hota Hai,Karan Johar,"Shah Rukh Khan, Kajol, Rani Mukerji, Farida Jalal, Reema Lagoo, Himani Shivpuri, Johnny Lever, Anupam Kher, Salman Khan, Archana Puran Singh, Sana Saeed",India,1998,ALL,185 min,"Comedy, Drama, Music Videos and Concerts"
+s5940,Movie,Kabhi Khushi Kabhie Gham,Karan Johar,"Amitabh Bachchan, Shah Rukh Khan, Hrithik Roshan, Kajol, Kareena Kapoor, Farida Jalal, Alok Nath, Johnny Lever, Jaya Bhaduri Bachchan",India,2001,ALL,209 min,"Drama, Romance"
+s5941,Movie,Kabhi Alvida Naa Kehna,Karan Johar,"Shah Rukh Khan, Rani Mukerji, Preity Zinta, Abhishek Bachchan, Arjun Rampal, Amitabh Bachchan",India,2006,13+,192 min,Romance
+s5959,Movie,Duniya,Ramesh Talwar,"Ashok Kumar, Amrita Singh, Prem Chopra, Amrish Puri, Pran, Satyendra Kapoor, Mac Mohan, Javed Khan, Sulbha Deshpande, Dilip Kumar",India,1984,ALL,170 min,"Drama, International"
+s5969,Movie,Brothers,Karan Malhotra,"Akshay Kumar, Sidharth Malhotra, Jackie Shroff, Jacqueline Fernandez, Shefali Shetty, Kiran Kumar, Ashutosh Rana","India, United States",2015,13+,155 min,"Action, Drama, Sports"
+s6004,Movie,Prem Qaidi,K. Muralimohana Rao,"Karisma Kapoor, Harish, Paresh Rawal, Asrani, Dalip Tahil, Rama Vij, Shafi Inamdar, Bharat Bhushan, Anjana Mumtaz, J.D. Chakravarthy, Harish Patel, Narsing Yadav, Ali",India,1991,13+,157 min,"Action, Romance"
+s6013,Movie,Ek Tha Tiger (English Subtitled),Kabir Khan,"Salman Khan, Katrina Kaif, Girish Karnad, Ranveer Shorey, Roshan Seth",India,2012,NOT_RATE,133 min,"Action, International, Romance"
+s6213,Movie,Suck,Rob Stefaniuk,"Rob Stefaniuk, Jessica Paré, Henry Rollins, Dave Foley, Paul Anthony, Mike Lobel",Canada,2009,R,91 min,"Arts, Entertainment, and Culture, Comedy, Horror"
+s6249,Movie,Copper Bill,Brett Bentman,"Dustin Rhodes, Thom Hallum, Arthur RedCloud, Katy Harris, Billy Blair",United States,2020,16+,84 min,"Action, Drama, Suspense"
+s6267,Movie,The Tomorrow War,Chris McKay,"Chris Pratt, J.K. Simmons, Yvonne Strahovski, Sam Richardson, Betty Gilpin, Edwin Hodge, Jasmine Mathews, Ryan Kiera Armstrong, Mary Lynn Rajskub",United States,2021,PG-13,138 min,"Action, Adventure, Comedy"
+s6297,Movie,The Girl With The Dragon Tattoo,David Fincher,"Daniel Craig, Rooney Mara, Christopher Plummer, Robin Wright, Steven Berkoff, Joely Richardson, Stellan Skarsgård, Yorick van Wageningen","United States, Sweden, Norway",2011,R,158 min,"Action, Drama, Suspense"
+s6306,Movie,Minority Report,Steven Spielberg,"Tom Cruise, Colin Farrell, Samantha Morton, Max Von Sydow, Lois Smith",United States,2002,PG-13,145 min,"Drama, Science Fiction"
+s6342,Movie,Unwanted,Edon Rizvanolli,"Adriana Matoshi, Jason de Ridder, Niki Verkaar, Hugo Koolschijn, Celia Nufaar","Kosovo, Netherlands",2018,16+,82 min,Drama
+s6410,Movie,Our Friend,Gabriela Cowperthwaite,"Jason Segel, Dakota Johnson, Casey Affleck",United States,2021,R,126 min,"Arts, Entertainment, and Culture, Drama"
+s6499,Movie,Carmen,Vicente Aranda,"Paz Vega, Leonardo Sbaraglia, Antonio Dechent, Ginés García Millán","Spain, United Kingdom, Italy",2003,18+,115 min,"Drama, Romance"
+s6556,Movie,"Lo and Behold, Reveries of the Connected World",Werner Herzog,"Elon Musk, Dr. Robert Kahn, Kevin Mitnick",United States,2016,PG-13,98 min,Documentary
+s6564,Movie,In the Year 2889,Larry Buchanan,"Paul Petersen, Quinn O'Hara, Charla Doherty, Neil Fletcher, Hugh Feagin, Bill Thurman",United States,1967,13+,80 min,"Horror, Science Fiction"
+s6574,Movie,Forward. Side. Close!,Alexander Peter Lercher,"Heinz Trixner, Christian Futterknecht, Uschi Glas, Sandra Lipp, Julius Kuhn",Austria,2016,13+,103 min,"Comedy, Drama"
+s6608,Movie,Zabardast,Mahesh Kothare,"Pushkar Jog, Manasi Naik, Sanjay Narvekar, Makarand Anaspure, Kishori Ambiye, Priya Berde, Abhiram Bhadkamkar, Vijay Chavan, Bharat Jadhav, Siddarth Jadhav, Rasika Joshi, Mahesh Kothare, Santosh Pawar, Aditya Redij, Sanjiv Talpade, Sunil Tawde, Yohana Vachhani",India,2007,ALL,142 min,"Arts, Entertainment, and Culture"
+s6615,Movie,Toofaan,Rakeysh Omprakash Mehra,"Farhan Akhtar, Mrunal Thakur, Paresh Rawal, Supriya Pathak Kapur, Hussain Dalal, Dr.Mohan Agashe, Darshan Kumaar",India,2021,13+,161 min,Sports
+s6645,Movie,Full 3 Dhamaal,Mahesh Kothare,"Makarand Anaspure, Prasad Oak, Priya Berde, Suchitra Bandekar, Abhiram Bhadkamkar, Kishori Godbole, Dilip Prabhavalkar, Siddarth Jadhav, Ameya Hunaswadkar, Rasika Joshi, Savita Malpekar, Kranti Redkar, Prema Sakhardande",India,2008,ALL,111 min,Comedy
+s6660,Movie,Anari,K. Muralimohana Rao,"Venkatesh Daggubati, Karisma Kapoor, Johnny Lever, Rakhee Gulzar, Suresh Oberoi, Gulshan Grover, Laxmikant Berde, Priya Arun, Beena Banerjee, Adi Irani, Shashi Kiran, Sudha Rani, Raju Shrestha, Subbiraj",India,1993,ALL,171 min,"Comedy, Drama, Romance"
+s6693,Movie,Creditors,Ben Cura,"Christian McKay, Andrea Deck, Ben Cura","United Kingdom, Spain",2016,16+,78 min,"Drama, Romance"
+s6811,Movie,Capone,Josh Trank,"Tom Hardy, Linda Cardellini, Matt Dillon, Kyle MacLachlan","Canada, United States",2020,R,104 min,"Arts, Entertainment, and Culture, Drama, Suspense"
+s6828,Movie,At the Fork,John Papola,"John Papola, Lisa Versaci, Kim Sturla, Jayson Lusk, Temple Grandin, Malcolm DeKryger",United States,2016,16+,95 min,"Documentary, Special Interest"
+s6872,Movie,A Lonely Woman,Juven Cavazos,"Youlika Skafida, Beau Yotty",United States,2018,13+,105 min,Drama
+s6888,Movie,Jatra,Kedar Shinde,"Bharat Jadhav, Siddarth Jadhav, Viju Khote, Sanjay Khapre, Priya Berde, Vijay Chavan, Upendra Limaye, Kranti Redkar, Amir Tadwalkar, Sunil Tawde, Kushal Badrike, Munir Baghman, Mohan Bagode, Vandan Bakmis, Shankar Bhake, Jaiwant Bhalekar, Dilip Budhkar, Kishore Chougule, Kamlakar Satputhe",India,2005,ALL,138 min,Comedy
+s6897,Movie,Tyfelstei - an alpine horror tale,"Chris Bucher, Severin Gmünder","Tobias Fischer, Lisa Maria Bärenbold, Walter Andreas Müller, Hans-Peter Ulli, Joel Singh, Isabelle Flachsmann, Jonathan Konrad, Chris Bucher",Switzerland,2021,16+,104 min,"Horror, Suspense"
+s7000,Movie,Separate Lives,David Madden,"James Belushi, Linda Hamilton, Vera Miles, Elisabeth Moss",United States,1995,R,102 min,"Drama, Suspense"
+s7001,Movie,Secret Window,David Koepp,"Johnny Depp, John Turturro, Maria Bello, Timothy Hutton",United States,2004,PG-13,96 min,"Horror, Suspense"
+s7009,Movie,Patriot Games (4K UHD),Phillip Noyce,"Harrison Ford, Anne Archer, Patrick Bergin, Sean Bean, James Earl Jones, Thora Birch, James Fox, Samuel L. Jackson, Polly Walker, J.E. Freeman",United States,1992,R,117 min,Drama
+s7030,Movie,Finding Ophelia,Stephen Rutterford,"Jimmy Levar, Christina Chu-Ryan, Ira Grossman, Alexandra Lyon",United States,2021,16+,73 min,"Romance, Suspense"
+s7033,Movie,Emerald Run,Eric Etebari,"David Chokachi, Yancy Butler, Sean Burgos, Michael Pare, Chris Mulkey, John Schneider, Vernon Wells, Steven Williams, Stephen Cloud, Jonathan Jose Quintana, Adam Gifford, Manuel Soro, Marialisa Caruso, Anthony Caruso",United States,2021,16+,90 min,"Action, Drama, Suspense"
+s7038,Movie,Dawn of the Beast,Bruce Wemple,"Adrian Burke, Ariella Mastroianni, Grant Schumacher, Anna Shields, Lejon Woods, Chris Cimperman, Willard Morgan, Francesca Anderson",United States,2021,16+,83 min,"Horror, Suspense"
+s7042,Movie,Catch Me If You Can,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen, Nathalie Baye, Amy Adams, James Brolin, Brian Howe, Frank John Hughes, Steve Eastin","United States, Canada",2002,PG-13,141 min,Suspense
+s7043,Movie,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Larry Charles,"Sacha Baron Cohen, Pamela Anderson, Ken Davitian, Luenell, Bob Barr, David Corcoran, Mitchell Falk, Alan Keyes","United States, United Kingdom, Kazakhstan",2006,R,84 min,Comedy
+s7060,Movie,The Florentine,Nick Stagliano,"Jeremy Davies, Virginia Madsen, Luke Perry, Mary Stuart Masterson",United States,1999,R,104 min,"Comedy, Drama"
+s7067,Movie,Tracers,Daniel Benmayor,"Taylor Lautner, Marie Avgeropoulos, Adam Rayner, Rafi Gavron",United States,2015,PG-13,94 min,"Action, Suspense"
+s7164,Movie,Mere Dad Ki Maruti,Ashima Chibber,"Saqib Saleem, Rhea Chakraborty, Ram Kapoor, Prabal Panjabi, Benazir Shaikh, Ravi Kishan",India,2013,13+,101 min,"Comedy, International"
+s7168,Movie,Let's Dream,Eric Gorlow,"Eric Gorlow, Kara Schaaf, Douglas M. Eames",United States,2021,16+,95 min,"Horror, Science Fiction, Suspense"
+s7266,Movie,The Dangerous Lives of Altar Boys,Peter Care,"Emile Hirsch, Kieran Culkin, Vincent D'Onofrio, Jena Malone, Jake Richardson",United States,2002,R,105 min,"Comedy, Drama"
+s7304,Movie,Shadowplay,Tony Pietra Arjuna,"Tony Eusoff, Juria Hartmans, Stephen Rahman Hughes, Radhi Khalid, Susan Lankester",Malaysia,2019,16+,90 min,"Science Fiction, Suspense"
+s7314,Movie,Eggs,John Michael Williams,"Joe Pantoliano, Brooke Shields, Sandra Bernhard, Gary Litman, Nancy Kerrigan, James Woods, Tara Sands","Poland, United States",2021,7+,87 min,"Animation, Kids"
+s7335,Movie,Raja The Great (Malayalam),Anil Ravipudi,"Ravi Teja, Mehreen, Raadhika, Vivan Bhatena, Rajendra Prasad, Prakash Raj, Sampath Raj, Sai Kumar",India,2017,13+,150 min,"Action, Comedy"
+s7337,Movie,Nancy,Christina Choe,"Andrea Riseborough, Steve Buscemi, Ann Dowd, John Leguizamo, J. Smith-Cameron, Virginia Kull, Olli Haaskivi, Owen Campbell",United States,2018,13+,85 min,"Horror, Suspense"
+s7412,Movie,Dostana,Tarun Mansukhani,"Abhishek Bachchan, John Abraham, Priyanka Chopra, Kirron Kher, Bobby Deol, Boman Irani, Sushmita Mukherjee","India, United States",2008,13+,142 min,"Comedy, International"
+s7417,Movie,Chashme Bahaddar,Vijay Patkar,"Sanjay Narvekar, Dipali Sayyad, Vijay Chavan, Johnny Lever, Rajpal Yadav, Deepak Shirke, Sahil Shirvaikar, Jaiwant Bhalekar, Kishori Ambiye, Purnima Ahire, Vijay Kadam, Jayraj Nair, Arun Nalawade, Sunil Pal, Nisha Parulekar, Kamlakar Satputhe, Sunil Tawde",India,2006,ALL,146 min,Comedy
+s7482,Movie,Permanent Midnight,David Veloz,"Ben Stiller, Elizabeth Hurley, Janeane Garofalo, Maria Bello, Owen Wilson, Cheryl Ladd",United States,1998,R,88 min,Drama
+s7506,Movie,The Priest (Telugu),Jofin T. Chacko,"Mammootty, Manju Warrier, Ameya Mathew, Nikhila Vimal, Baby Monica",India,2021,13+,145 min,Suspense
+s7667,Movie,The Whistleblower,Larysa Kondracki,"Rachel Weisz, Vanessa Redgrave, Monica Bellucci, David Strathairn, Benedict Cumberbatch, Liam Cunningham, Luke Treadaway","Canada, Germany",2011,R,112 min,"Action, Drama, Suspense"
+s7727,Movie,Karma Cartel,Vinod Bharathan,"Vinay Forrt, Sabumon Abdusamad, Jinu Joseph, Tony Luke, Shani Shaki, Franko Manjilla, Ahamed Shaheen, Rohini Idiccula","India, Denmark",2014,13+,101 min,"Drama, Suspense"
+s7738,Movie,He Who Lives In Hidden Lakes,Zach Lona,"Kevin K. Gomez, Sarah Kopp, Lucas Lona, Rachel O'Connell, Charlie Bain, Arash Fakhrabadi, Helen Liaskos-Lona, Moriah Martel, Emily Camp, Vincent Banks, Katherine Bellantone, Eddie Lynch, Ali de Rosas, Dom Udell, Daphne Nitsuga, Patrys Jean Destin, Shannon Angel, John McDonnell, Derek Johnson, Pete Laughlin, Nora King, Alan Prince, Chrissy Rejcek, Jordan Bridgman, Jeremiah Davis, Trina Love, Martin Davis, Nick Alonzo, Anthony Gibson, Zach Lona",United States,2019,13+,96 min,"Action, Science Fiction, Suspense"
+s7753,Movie,Conjuring the Genie,Scott Jeffrey,"Sarah T. Cohen, Megan Purvis, Barbara Dabson, Nicola Wright, Amanda-Jade Tyler",United Kingdom,2021,18+,91 min,"Horror, Suspense"
+s7916,Movie,Montana,Jennifer Leitzes,"Philip Seymour Hoffman, Kyra Sedgwick, Stanley Tucci, Robin Tunney, Robbie Coltrane, John Ritter, Ethan Embry",United States,1998,R,96 min,"Action, Adventure, Comedy"
+s8089,Movie,Scenes of a Sexual Nature,Ed Blum,"Tom Hardy, Ewan McGregor, Mark Strong, Andrew Lincoln, Hugh Bonneville, Gina McKee, Catherine Tate, Douglas Hodge, Polly Walker",United Kingdom,2006,16+,92 min,"Comedy, Drama, Romance"
+s8092,Movie,Santa Who?,William Dear,"Leslie Nielsen, Robyn Lively, Steven Eckholdt, Tommy Davidson, Max Morrow",United States,2000,ALL,92 min,Comedy
+s8105,Movie,Patriot Games,Phillip Noyce,"Harrison Ford, Anne Archer, Patrick Bergin, Sean Bean, James Earl Jones, Thora Birch, James Fox, Samuel L. Jackson, Polly Walker, J.E. Freeman[",United States,1992,R,117 min,"Action, Drama, Suspense"
+s8144,Movie,Daredevil,Mark Steven Johnson,"Ben Affleck, Jennifer Garner, Joe Pantoliano, Jon Favreau, Michael Clarke Duncan, Colin Farrell, David Keith","United States, Switzerland",2003,PG-13,104 min,Action
+s8158,Movie,"Big Mommas: Like Father, Like Son",John Whitesell,"Martin Lawrence, Brandon T. Jackson, Jessica Lucas",United States,2011,PG-13,107 min,Comedy
+s8162,Movie,Armageddon,Michael Bay,"Bruce Willis, Billy Thornton, Liv Tyler, Ben Affleck, Will Patton, Peter Stormare, Keith David",United States,1998,PG-13,151 min,"Action, Adventure"
+s8208,Movie,Dirty 30,Andrew Bush,"Mamrie Hart, Grace Helbig, Hannah Hart",United States,2016,PG-13,87 min,Comedy
+s8216,Movie,Blue Mountain State: The Rise Of Thadland,Lev L. Spiro,"Alan Ritchson, Chris Romano, Darin Brooks, James Cade, Frankie Shaw",United States,2016,R,90 min,Comedy
+s8258,Movie,Stuart Little 2,Rob Minkoff,"Geena Davis, Michael J. Fox, Hugh Laurie, Nathan Lane, Jonathan Lipnicki, Melanie Griffith, James Woods, Steve Zahn, Rachael Harris",United States,2002,PG,78 min,"Comedy, Kids, Science Fiction"
+s8267,Movie,She's Out of My League,Jim Field Smith,"Jay Baruchel, Alice Eve, T.J. Miller, Mike Vogel, Nate Torrance, Krysten Ritter, Geoff Stults, Lindsay Sloane, Kyle Bornheimer",United States,2010,R,105 min,"Comedy, Romance"
+s8278,Movie,Parents,Bob Balaban,"Randy Quaid, Mary Beth Hurt, Sandy Dennis, Bryan Madorsky","Canada, United States",1989,R,82 min,"Comedy, Horror, Suspense"
+s8315,Movie,Frailty,Bill Paxton,"Bill Paxton, Matthew McConaughey, Powers Boothe, Luke Askew, Jeremy Sumpter, Matt O'Leary","United States, Germany, Italy",2002,R,100 min,"Drama, Suspense"
+s8318,Movie,Experimenter,Michael Almereyda,"Peter Sarsgaard, Winona Ryder, Jim Gaffigan, Edoardo Ballerini, Kellan Lutz, Dennis Haysbert, Danny Abeckaser, Taryn Manning, Anton Yelchin",United States,2016,PG-13,98 min,Drama
+s8333,Movie,Cinderella,Kay Cannon,Camila Cabello,"United States, United Kingdom",2021,PG,112 min,"Comedy, Fantasy, Kids"
+s8343,Movie,Ape vs. Monster,Daniel Lusko,"Eric Roberts, Arianna Scott, Katie Sereika, Shayne Hatigan",United States,2021,16+,88 min,Science Fiction
+s8367,Movie,Aashiqui 2,Mohit Suri,"Aditya Roy Kapoor, Shraddha Kapoor, Shaad Randhawa, Salil Acharya, Chitrak Bandyopadhyay, Bugs Bhargava, Ashish Bhatt, Gagan Gupta, Shubhangi Latkar, Soumyajit Majumdar, Nickk, Milind Phatak, Shekhar Shukla, Mahesh Thakur",India,2013,ALL,127 min,"International, Romance"
+s8399,Movie,Brutus vs Cesar,Kheiron,"Kheiron, Thierry Lhermitte, Gérard Darmon, Ramzy Bedia",France,2020,PG-13,88 min,Comedy
+s8452,Movie,A War,Tobias Lindholm,"Pilou Asbæk, Tuva Novotny, Søren Malling, Dar Salim, Dulfi Al-Jabouri","Denmark, France",2016,R,115 min,"Drama, International"
+s8505,Movie,Yakuza Apocalypse,Takashi Miike,"Hayato Ichihara, Riko Narumi, Lily Franky, Yayan Ruhian","Japan, France",2015,18+,115 min,"Action, Horror"
+s8548,Movie,Giant Little Ones,Keith Behrman,"Josh Wiggins, Darren Mann, Taylor Hickson",Canada,2019,R,93 min,"Drama, Young Adult Audience"
+s8569,Movie,The Report,Scott Z. Burns,"Adam Driver, Annette Bening, Jon Hamm, Corey Stoll, Maura Tierney, Michael C. Hall, Ted Levine, Tim Blake Nelson",United States,2019,R,120 min,Military and War
+s8570,Movie,The Priest (Tamil),Jofin T. Chacko,"Mammootty, Manju Warrier, Ameya Mathew, Nikhila Vimal, Baby Monica",India,2021,13+,145 min,Suspense
+s8691,Movie,Irish Jam,John Eyres,"Dudley Sutton, Eddie Griffith, Anna Friel","United Kingdom, United States",2006,PG-13,94 min,Comedy
+s8781,Movie,Attack the Block,Joe Cornish,"Adam Buxton, Jodie Whittaker, John Boyega, Alex Esmail, Franz Drameh, Leeon Jones, Simon Howard, Jumayn Hunter, Nick Frost, Luke Treadaway",United Kingdom,2011,R,88 min,"Action, Adventure, Science Fiction"
+s8826,Movie,Sunny (4K UHD),Ranjith Sankar,Jayasurya,India,2021,PG-13,93 min,"Drama, Suspense"
+s8827,Movie,Sunny,Ranjith Sankar,Jayasurya,India,2021,PG-13,93 min,"Drama, Suspense"
+s8849,Movie,Copperman,Eros Puglielli,"Luca Argentero, Galatea Ranzi, Antonia Truppo",Italy,2019,7+,100 min,"Action, Drama, Fantasy"
+s8851,Movie,"An American Girl Story: Summer Camp, Friends For Life",Alison McDonald,"Zoe Manarel, Alison Fernandez, Lauren Donzis, Camryn Manheim, Monique Green",United States,2017,ALL,32 min,Kids
+s8907,Movie,Beautiful Joe,Stephen Metcalfe,"Sharon Stone, Billy Connolly, Ian Holm","United States, United Kingdom",2000,13+,92 min,"Comedy, Drama"
+s8983,Movie,Zana,Antoneta Kastrati,"Adriana Matoshi, Astrit Kabashi, Fatmire Sahiti, Mensur Safqiu, Vedat Bajrami, Irena Cahani, Shengyl Ismaili, Bislim Muçaj, Çun Lajçi, Ilire Vinca Celaj","Kosovo, Albania, United States, Georgia",2020,18+,96 min,Drama
+s9042,Movie,Windcroft,Evan Meszaros,"Joe Ryan, Vanessa Daniels, Monica Knight, Ray Wasik, Amanda Renee Knox",United States,2007,18+,94 min,"Drama, Horror, Suspense"
+s9070,Movie,The Grudge 2,Takashi Shimizu,"Amber Tamblyn, Arielle Kebbel, Jennifer Beals, Edison Chen, Sarah Roemer, Sarah Michelle Gellar","United States, Japan",2006,PG-13,102 min,Horror
+s9097,Movie,Stargate,Roland Emmerich,"Kurt Russell, James Spader, Jaye Davidson, Viveca Lindfors, John Diehl","United States, France",1994,PG-13,121 min,"Science Fiction, Suspense"
+s9116,Movie,Resident Evil: Retribution (4K UHD),Paul W.S. Anderson,"Ave Merson-O'Brian, Milla Jovovich, Michelle Rodriguez, Sally Cahill, Kevin Durand, Sienna Guillory, Shawn Roberts, Aryana Engineer, Colin Salmon, Johann Urb, Boris Kodjoe, Li Bingbing","Germany, Canada, United States, France, United Kingdom",2012,R,96 min,"Action, Horror, Science Fiction"
+s9117,Movie,Resident Evil: Retribution,Paul W.S. Anderson,"Ave Merson-O'Brian, Milla Jovovich, Michelle Rodriguez, Sally Cahill, Kevin Durand, Sienna Guillory, Shawn Roberts, Aryana Engineer, Colin Salmon, Johann Urb, Boris Kodjoe, Li Bingbing","Germany, Canada, United States, France, United Kingdom",2012,R,96 min,"Action, Science Fiction"
+s9133,Movie,Once Upon A Time In Mexico,Robert Rodriguez,"Antonio Banderas, Salma Hayek, Johnny Depp, Mickey Rourke, Eva Mendes, Danny Trejo, Enrique Iglesias, Marco Leonardi, Cheech Marin, Ruben Blades, Willem Dafoe","United States, Mexico",2003,R,102 min,"Action, Adventure, Drama"
+s9165,Movie,Last Action Hero (4K UHD),John McTiernan,"Danny DeVito, Arnold Schwarzenegger, F. Murray Abraham, Art Carney, Charles Dance, Frank McRae, Tom Noonan, Robert Prosky, Anthony Quinn, Mercedes Ruehl, Austin O'Brien",United States,1993,PG-13,131 min,"Action, Adventure, Comedy"
+s9166,Movie,Last Action Hero,John McTiernan,"Danny DeVito, Arnold Schwarzenegger, F. Murray Abraham, Art Carney, Charles Dance, Frank McRae, Tom Noonan, Robert Prosky, Anthony Quinn, Mercedes Ruehl, Austin O'Brien",United States,1993,PG-13,131 min,"Action, Comedy"
+s9167,Movie,Lara Croft Tomb Raider: The Cradle of Life (4K UHD),Jan De Bont,"Angelina Jolie, Gerard Butler, Noah Taylor, Ciaran Hinds, Djimon Hounsou, Til Schweiger, Christopher Barrie, Simon Yam, Terence Yin, Fabiano Martell","United States, Germany, Japan, United Kingdom, Hong Kong",2003,PG-13,117 min,"Action, Adventure, Drama"
+s9184,Movie,Heartbreakers,David Mirkin,"Sigourney Weaver, Jennifer Love Hewitt, Ray Liotta, Jason Lee, Jeffrey Jones, Gene Hackman, Nora Dunn, Sarah Silverman, Zach Galifianakis, Anne Bancroft",United States,2001,PG-13,124 min,Comedy
+s9205,Movie,Exorcist: The Beginning,Renny Harlin,"Rupert Degas, Stellan Skarsgard, Izabella Scorupco, James D'Arcy, Ralph Brown, Ben Cross, David Bradley",United States,2004,R,113 min,"Action, Adventure, Horror"
+s9212,Movie,Duplicity,Tony Gilroy,"Clive Owen, Julia Roberts, Tom Wilkinson, Paul Giamatti, Dan Daily, Lisa Roberts Gillan, David Shumbris, Rick Worthy, Oleg Shtefanko, Denis O'Hare, Kathleen Chalfant, Khan Baykal, Thomas McCarthy, Wayne Duvall, Fabrizio Brienza, Lucia Grillo, Carrie Preston, Conan McCarty, Kirby Mitchell, Christopher Denham, Christopher Mann, Seth Kirschner, Karl Bury, Happy Anderson, James Cronin, Esther Pringle, Mary Anne Prevost, Annabel Seymour, Sandy Hamilton, Ulrich Thomsen, Helen Elswit, George Aloi, Sakinah Bingham, Maria Di Angelis, Cassidy Gard, Ronald E. Giles, Jeff Grossman, Moe Hindi, Emily Hughes, Michael Jeremiah, Edgar Jimz, Edward M. Kelahan, Arnold Y. Kim, Ashley Klein, Stanley Krajewski, Frosty Lawson, Evan Lewis, Kimberly Magness, Chris Margaritis, Cristina Marie, Michele Melega, Alexi Melvin, Eliezer Meyer, Christopher Moser, Andrea Osv??rt, Gina Priano, D. Justyn Ryan, Ken Sladyk, Brandon Slagle, Robert T. Striem, Nico Toffoli, Tamara Torres, Darly Wanatick","United States, Germany",2009,PG-13,125 min,"Drama, Suspense"
+s9217,Movie,Die Hard,John McTiernan,"Bruce Willis, Alan Rickman, Bonnie Bedelia",United States,1988,R,132 min,Suspense
+s9327,Movie,Gli Onorevoli,Sergio Corbucci,"Peppino De Filippo, Totò",Italy,1963,13+,99 min,Comedy
+s9360,Movie,Top Five,Chris Rock,"Chris Rock, Rosario Dawson, Gabrielle Union, Cedric The Entertainer, J.B. Smoove, Tracy Morgan, Kevin Hart",United States,2014,R,102 min,Comedy
+s9375,Movie,Prometheus (4K UHD),Ridley Scott,"Noomi Rapace, Michael Fassbender, Guy Pearce, Idris Elba, Logan Marshall-Green, Charlize Theron, Sean Harris","United States, United Kingdom",2012,R,124 min,Science Fiction
+s9376,Movie,Prometheus,Ridley Scott,"Noomi Rapace, Michael Fassbender, Guy Pearce, Idris Elba, Logan Marshall-Green, Charlize Theron","United States, United Kingdom",2012,R,124 min,"Horror, Science Fiction, Suspense"
+s9412,Movie,Wishmaster,Robert Kurtzman,"Andrew Divoff, Kane Hodder, Robert Englund, Tammy Lauren, Tony Todd",United States,1997,R,90 min,"Horror, Science Fiction"
+s9422,Movie,The Dark Dance,Mauro John Capece,"Franco Nero, Corinna Coroneo, Flavio Sciolé, Daphne Scoccia, Michela Bruni, Giorgia Trasselli","Italy, Canada",2020,16+,102 min,"Drama, LGBTQ"
+s9443,Movie,Moonwalkers,Antoine Bardou-Jacquet,"Rupert Grint, Ron Perlman, Robert Sheehan","France, Belgium",2015,R,93 min,"Action, Comedy"
+s9458,Movie,Die Hard 2 (4K UHD),Renny Harlin,"Bruce Willis, Bonnie Bedelia, William Atherton, Reginald Veljohnson, Franco Nero, William Sadler, John Amos",United States,1990,R,123 min,"Action, Adventure"
+s9494,Movie,Magari resto (Maybe I'll stay),Mario Parruccini,"Caterina Misasi, Enrico Lo Verso, Pietro De Silva, Veronica Maya, Emiliano De Martino, Rosaria De Cicco, Lucio Bastolla, Felice Avella, Pier Luigi Misasi, Sebastiano Gavasso, Valentina Corti, Noemi Giangrande, Andrea Napoleoni, Antonio Braucci",Italy,2020,13+,97 min,"Comedy, Drama"
+s9499,Movie,La Cambiale,Camillo Mastrocinque,"Vittorio Gassman, Totò, Ugo Tognazzi",Italy,1959,13+,105 min,Comedy
+s9504,Movie,I Motorizzati,Camillo Mastrocinque,"Nino Manfredi, Ugo Tognazzi","Italy, Spain",1962,16+,94 min,Comedy
+s9563,Movie,Basement Jack,Michael Shelton,"Eric Peter-Kaiser, Lynn Lowry, Tiffany Shepis, Billy Morrison, Michele Morrow",United States,2009,18+,93 min,Horror
+s9566,Movie,A Family Man,Mark Williams,"Gerard Butler, Gretchen Mol, Alison Brie, Willem Dafoe, Alfred Molina","United States, Canada",2017,R,110 min,Drama
+s9605,Movie,Bride Wars,Gary Winick,"Kate Hudson, Anne Hathaway, Kristen Johnston, Bryan Greenberg, Candice Bergen",United States,2009,PG,89 min,Comedy
+s9615,Movie,What Happens in Vegas,Tom Vaughan,"Cameron Diaz,  Ashton Kutcher,  Rob Corddry,  Lake Bell",United States,2008,PG-13,99 min,Comedy
+s9642,Movie,Marley & Me,David Frankel,"Owen Wilson, Jennifer Aniston",United States,2008,PG,116 min,"Comedy, Drama, Kids"
+s9644,Movie,Love & Other Drugs,Edward Zwick,"K K, Jake Gyllenhaal, Anne Hathaway, Oliver Platt, Hank Azaria, Josh Gad, Gabriel Macht",United States,2010,R,112 min,"Comedy, Drama"
+s9645,Movie,Little Miss Sunshine,"Jonathan Dayton, Valerie Faris","Abigail Breslin, Greg Kinnear, Paul Dano, Alan Arkin, Steve Carell, Toni Collette, Grant Hayes, Justin Shilton, Alissa Anderegg, Jerry Giles, Beth Grant",United States,2006,R,103 min,"Comedy, Drama"
